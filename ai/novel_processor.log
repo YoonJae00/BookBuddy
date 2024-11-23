@@ -1,0 +1,150 @@
+2024-11-24 01:49:11,059 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 01:50:10,716 - novel_processor - INFO - Extracted event from chapter 0: 극검과 상위 랭커들이 헬가오를 공략하기 위해 모였다.
+2024-11-24 01:50:10,718 - novel_processor - INFO - Extracted event from chapter 0: 헬가오의 등장 시간이 다가오며 긴장감이 고조되었다.
+2024-11-24 01:50:10,718 - novel_processor - INFO - Extracted event from chapter 0: 청년이 무장하지 않고 던전으로 침입했다.
+2024-11-24 01:50:10,718 - novel_processor - INFO - Extracted event from chapter 0: 청년이 갑옷을 착용하며 주목을 받았다.
+2024-11-24 01:50:20,956 - novel_processor - INFO - Extracted event from chapter 1: 청년이 갑옷을 착용하며 길드원들의 주목을 받음.
+2024-11-24 01:50:20,957 - novel_processor - INFO - Extracted event from chapter 1: 극검이 청년을 쫓아내라고 명령함.
+2024-11-24 01:50:20,957 - novel_processor - INFO - Extracted event from chapter 1: 지옥불의 주인 헬가오가 등장함.
+2024-11-24 01:50:20,957 - novel_processor - INFO - Extracted event from chapter 1: 청년이 헬가오의 공격에도 불구하고 멀쩡함.
+2024-11-24 01:50:20,957 - novel_processor - INFO - Extracted event from chapter 1: 청년이 곡괭이로 벽을 치기 시작함.
+2024-11-24 01:50:20,957 - novel_processor - INFO - Extracted event from chapter 1: 청년이 헬가오의 공격을 피하며 경미한 상처만 입음.
+2024-11-24 01:50:20,957 - novel_processor - INFO - Extracted event from chapter 1: 청년이 자신의 갑옷에 대해 설명함.
+2024-11-24 01:50:20,957 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 '북쪽 끝의 동굴'에 입장함.
+2024-11-24 01:50:27,293 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 '북쪽 끝의 동굴'에 입장하여 무구들을 발견함.
+2024-11-24 01:50:27,293 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 무구를 획득할 수 없다는 사실에 실망함.
+2024-11-24 01:50:27,293 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 낡은 책을 발견함.
+2024-11-24 01:50:27,293 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 '플라리안의 눈'을 사용하여 책의 감정을 확인하기로 결정함.
+2024-11-24 01:50:32,832 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 레전드리 아이템을 발견하고 그 가치를 깨닫다.
+2024-11-24 01:50:32,832 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 과거의 고생을 회상하며 감정적으로 반응하다.
+2024-11-24 01:50:32,832 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 아이템을 경매에 등록할 계획을 세우다.
+2024-11-24 01:50:32,832 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 성공을 상상하며 기뻐하다.
+2024-11-24 01:50:41,437 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 고등학교 동창회에 참석하기 위해 외제차를 끌고 가는 상상을 함.
+2024-11-24 01:50:41,437 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 퀘스트를 무시하고 아이템을 팔기로 결심함.
+2024-11-24 01:50:41,437 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 등장하고 주인공에게 분노함.
+2024-11-24 01:50:41,437 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작의 퀘스트를 강제로 떠안게 됨.
+2024-11-24 01:50:41,437 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작에게 반발하며 욕설을 함.
+2024-11-24 01:50:41,437 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 주인공에게 배신을 언급함.
+2024-11-24 01:50:50,431 - novel_processor - INFO - Extracted event from chapter 5: 기사들이 주인에게 욕한 사건으로 인해 아슈르 백작이 개입함.
+2024-11-24 01:50:50,431 - novel_processor - INFO - Extracted event from chapter 5: 주인공이 아슈르에게 배신을 지적하며 반박하지만, 아슈르가 이를 비웃음.
+2024-11-24 01:50:50,431 - novel_processor - INFO - Extracted event from chapter 5: 주인공이 퀘스트 클리어 조건을 확인하고 절망함.
+2024-11-24 01:50:50,431 - novel_processor - INFO - Extracted event from chapter 5: 주인공이 아슈르에게 복수를 다짐함.
+2024-11-24 01:50:50,431 - novel_processor - INFO - Extracted event from chapter 5: 주인공이 파그마의 기서를 잃을까 두려워함.
+2024-11-24 01:50:50,431 - novel_processor - INFO - Extracted event from chapter 5: 주인공이 대장장이로 전직하는 것에 대한 두려움을 느끼며 망설임.
+2024-11-24 01:50:55,464 - novel_processor - INFO - Extracted event from chapter 6: 주인공이 대장장이로 전직하기로 결심함.
+2024-11-24 01:50:55,465 - novel_processor - INFO - Extracted event from chapter 6: 주인공이 파그마의 기서를 펼치고 전직을 시작함.
+2024-11-24 01:50:55,465 - novel_processor - INFO - Extracted event from chapter 6: 전직 후 새로운 스킬과 능력치가 개방됨.
+2024-11-24 01:50:55,465 - novel_processor - INFO - Extracted event from chapter 6: 주인공의 레벨이 1로 초기화됨.
+2024-11-24 01:51:02,224 - novel_processor - INFO - Extracted event from chapter 7: 주인공이 전사에서 노가다꾼으로 전직하며 레벨이 1로 초기화됨.
+2024-11-24 01:51:02,224 - novel_processor - INFO - Extracted event from chapter 7: 주인공이 기사의 공격을 받아 사망함.
+2024-11-24 01:51:02,225 - novel_processor - INFO - Extracted event from chapter 7: 주인공이 마이너스 레벨에 대한 정보를 찾기 위해 커뮤니티에 글을 작성함.
+2024-11-24 01:51:02,225 - novel_processor - INFO - Extracted event from chapter 7: 주인공이 세 달 동안의 고생을 회상하며 허탈감을 느낌.
+2024-11-24 01:51:02,225 - novel_processor - INFO - Extracted event from chapter 7: 주인공이 허기를 채우며 기분이 다소 풀림.
+2024-11-24 01:51:02,225 - novel_processor - INFO - Extracted event from chapter 7: 주인공이 인터넷에 올린 질문 글의 조회 수가 급증함.
+2024-11-24 01:51:06,084 - novel_processor - INFO - Extracted event from chapter 8: 주인공이 마이너스 레벨에 대한 정보를 찾기 위해 인터넷 게시글을 확인함.
+2024-11-24 01:51:06,084 - novel_processor - INFO - Extracted event from chapter 8: 임철호가 Satisfy의 개발을 이끌고 있는 인물로 소개됨.
+2024-11-24 01:51:12,770 - novel_processor - INFO - Extracted event from chapter 9: 임철호가 새벽에 급한 전화를 받고 회사로 출발한다.
+2024-11-24 01:51:12,771 - novel_processor - INFO - Extracted event from chapter 9: 임철호가 Satisfy 운영팀 사무실에 도착하여 전직 소식을 듣는다.
+2024-11-24 01:51:12,771 - novel_processor - INFO - Extracted event from chapter 9: 임철호가 전직한 청년의 영상을 보고 그의 배경을 분석한다.
+2024-11-24 01:51:12,771 - novel_processor - INFO - Extracted event from chapter 9: 최나희가 청년의 발견이 우연과 집착의 결과라고 설명한다.
+2024-11-24 01:51:12,771 - novel_processor - INFO - Extracted event from chapter 9: 임철호가 청년의 끈기와 노력을 높이 평가한다.
+2024-11-24 01:51:20,558 - novel_processor - INFO - Extracted event from chapter 10: 최나희가 임철호에게 마이너스 레벨에 대해 질문함.
+2024-11-24 01:51:20,558 - novel_processor - INFO - Extracted event from chapter 10: 임철호가 마이너스 레벨의 시스템을 설명함.
+2024-11-24 01:51:20,558 - novel_processor - INFO - Extracted event from chapter 10: 그리드가 퀘스트 도중 전직을 하여 레벨이 마이너스 1이 됨.
+2024-11-24 01:51:20,558 - novel_processor - INFO - Extracted event from chapter 10: 임철호가 마이너스 레벨에서도 레벨 업이 가능하다고 설명함.
+2024-11-24 01:51:20,558 - novel_processor - INFO - Extracted event from chapter 10: 최나희가 레전드리 직업의 밸런스 붕괴 우려를 제기함.
+2024-11-24 01:51:20,558 - novel_processor - INFO - Extracted event from chapter 10: 임철호가 신영우의 정보를 통해 그리드의 능력에 대한 우려를 덜어줌.
+2024-11-24 01:51:26,288 - novel_processor - INFO - Extracted event from chapter 11: 임철호가 사무실을 떠나며 직원들에게 보너스를 약속함.
+2024-11-24 01:51:26,289 - novel_processor - INFO - Extracted event from chapter 11: 주인공이 암흑의 신, 야탄을 모시는 신전에서 부활함.
+2024-11-24 01:51:26,289 - novel_processor - INFO - Extracted event from chapter 11: 주인공이 마이너스 레벨과 낮은 능력치에 절망함.
+2024-11-24 01:51:26,289 - novel_processor - INFO - Extracted event from chapter 11: 주인공이 직업과 칭호의 특성에 긍정적인 사고를 가지게 됨.
+2024-11-24 01:51:31,407 - novel_processor - INFO - Extracted event from chapter 12: 주인공이 직업 특성 덕분에 아이템을 착용할 수 있게 되었다.
+2024-11-24 01:51:31,407 - novel_processor - INFO - Extracted event from chapter 12: 주인공이 <마몬의 대검>과 <멩겔의 플레이트 아머>를 착용하게 되었다.
+2024-11-24 01:51:31,407 - novel_processor - INFO - Extracted event from chapter 12: 아이템 사용 조건을 충족하지 못해 페널티가 적용되었다.
+2024-11-24 01:51:31,407 - novel_processor - INFO - Extracted event from chapter 12: 주인공이 레벨 복구의 가능성을 깨달았다.
+2024-11-24 01:51:35,976 - novel_processor - INFO - Extracted event from chapter 13: 레벨 1 초보자 대검과 갑옷의 공격력과 방어력 비교
+2024-11-24 01:51:35,976 - novel_processor - INFO - Extracted event from chapter 13: 아이템 이해도 시스템 발견
+2024-11-24 01:51:35,976 - novel_processor - INFO - Extracted event from chapter 13: 칭호 특성으로 상태 이상 확률 감소
+2024-11-24 01:51:35,976 - novel_processor - INFO - Extracted event from chapter 13: 전직서를 팔지 않은 후회
+2024-11-24 01:51:35,976 - novel_processor - INFO - Extracted event from chapter 13: 새로운 스탯 확인
+2024-11-24 01:51:42,137 - novel_processor - INFO - Extracted event from chapter 14: 주인공이 능력치 포인트를 분배할 수 없는 스탯에 대해 걱정함.
+2024-11-24 01:51:42,137 - novel_processor - INFO - Extracted event from chapter 14: 주인공이 갑자기 등을 찔려 놀람.
+2024-11-24 01:51:42,137 - novel_processor - INFO - Extracted event from chapter 14: 백인 사내가 주인공에게 사과하고 대화를 시도함.
+2024-11-24 01:51:42,137 - novel_processor - INFO - Extracted event from chapter 14: 백인 사내가 주인공에게 도움을 요청함.
+2024-11-24 01:51:42,137 - novel_processor - INFO - Extracted event from chapter 14: 주인공이 백인 사내가 NPC임을 깨달음.
+2024-11-24 01:51:45,216 - novel_processor - INFO - Extracted event from chapter 15: 유저가 NPC와 착각한 후, 백작의 외동딸 아이린을 구출하는 퀘스트를 수락할지 고민하는 상황.
+2024-11-24 02:05:39,640 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 02:06:02,434 - novel_processor - INFO - Extracted event from chapter 0: 상위 랭커들이 헬가오를 공략하기 위해 모였다.
+2024-11-24 02:06:02,435 - novel_processor - INFO - Extracted event from chapter 0: 헬가오의 강력함에 대한 두려움이 커졌다.
+2024-11-24 02:06:02,435 - novel_processor - INFO - Extracted event from chapter 0: 청년이 은기사 길드의 구역에 침입했다.
+2024-11-24 02:06:02,435 - novel_processor - INFO - Extracted event from chapter 0: 청년이 갑옷을 착용하며 주목을 받았다.
+2024-11-24 02:06:16,155 - novel_processor - INFO - Extracted event from chapter 1: 청년이 갑옷을 착용하며 길드원들의 감탄을 자아냄.
+2024-11-24 02:06:16,155 - novel_processor - INFO - Extracted event from chapter 1: 극검이 청년을 쫓아내라고 명령함.
+2024-11-24 02:06:16,155 - novel_processor - INFO - Extracted event from chapter 1: 지옥불의 주인 헬가오가 등장함.
+2024-11-24 02:06:16,155 - novel_processor - INFO - Extracted event from chapter 1: 청년이 헬가오의 공격에도 불구하고 멀쩡하게 남아 있음.
+2024-11-24 02:06:16,156 - novel_processor - INFO - Extracted event from chapter 1: 청년이 곡괭이질을 하며 헬가오를 무시함.
+2024-11-24 02:06:16,156 - novel_processor - INFO - Extracted event from chapter 1: 청년이 자신의 갑옷의 꼬리로 헬가오의 공격을 방어함.
+2024-11-24 02:06:16,156 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 '북쪽 끝의 동굴'에 입장함.
+2024-11-24 02:06:22,809 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 '북쪽 끝의 동굴'에 입장하여 무구들을 발견함.
+2024-11-24 02:06:22,809 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 무구를 획득할 수 없음을 깨닫고 실망함.
+2024-11-24 02:06:22,809 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 황금 탁자 위의 낡은 책을 발견함.
+2024-11-24 02:06:22,809 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 전설적 장인의 기서를 획득함.
+2024-11-24 02:06:22,809 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 플라리안의 눈을 사용하여 책의 감정을 확인할지 고민함.
+2024-11-24 02:06:28,339 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 레전드리 아이템을 발견하고 그 가치를 깨닫는다.
+2024-11-24 02:06:28,340 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 과거의 고생을 회상하며 감정적으로 반응한다.
+2024-11-24 02:06:28,340 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 아이템을 경매에 등록할 계획을 세운다.
+2024-11-24 02:06:28,340 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 성공을 상상하며 기뻐한다.
+2024-11-24 02:06:35,464 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 고등학교 동창회에 참석하기 위해 외제차를 끌고 등장하는 상상을 함.
+2024-11-24 02:06:35,464 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 퀘스트를 무시하고 외제차를 팔기로 결심함.
+2024-11-24 02:06:35,464 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 등장하고 주인공에게 분노함.
+2024-11-24 02:06:35,464 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작의 의뢰를 저버리고 파그마의 기서를 빼돌리려 함.
+2024-11-24 02:06:35,465 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작과 호위 기사들을 처치해야 하는 퀘스트를 받음.
+2024-11-24 02:06:36,084 - novel_processor - ERROR - Error: Novel processing failed, details: {'error': "object WriteResult can't be used in 'await' expression"}
+2024-11-24 02:07:45,243 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 02:08:05,417 - novel_processor - ERROR - Error: Novel processing failed, details: {'error': 'No characters found in the novel'}
+2024-11-24 02:08:56,913 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 02:09:13,001 - novel_processor - ERROR - Error: Novel processing failed, details: {'error': 'No characters found in the novel'}
+2024-11-24 02:10:35,666 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 02:10:57,964 - novel_processor - ERROR - Error: Novel processing failed
+2024-11-24 02:12:07,422 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 02:12:27,417 - novel_processor - ERROR - Error: Novel processing failed
+2024-11-24 02:13:33,651 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 02:13:33,682 - novel_processor - ERROR - Error: Novel processing failed
+2024-11-24 02:14:06,445 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 02:14:06,476 - novel_processor - ERROR - Error: Error processing chunk for characters
+2024-11-24 02:14:06,477 - novel_processor - ERROR - Error: Error processing chunk for characters
+2024-11-24 02:14:06,478 - novel_processor - ERROR - Error: Error processing chunk for characters
+2024-11-24 02:14:06,479 - novel_processor - ERROR - Error: Error processing chunk for characters
+2024-11-24 02:14:06,480 - novel_processor - ERROR - Error: Error processing chunk for characters
+2024-11-24 02:14:06,480 - novel_processor - ERROR - Error: No characters found in any chunk
+2024-11-24 02:14:06,480 - novel_processor - ERROR - Error: Novel processing failed
+2024-11-24 02:15:19,923 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 02:15:19,954 - novel_processor - ERROR - Error: Failed to identify characters
+2024-11-24 02:15:19,954 - novel_processor - ERROR - Error: Novel processing failed
+2024-11-24 02:15:58,102 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 02:15:58,132 - novel_processor - ERROR - Error: Error processing chunk
+2024-11-24 02:15:58,133 - novel_processor - ERROR - Error: Error processing chunk
+2024-11-24 02:15:58,133 - novel_processor - ERROR - Error: No characters found, using default character
+2024-11-24 02:15:58,133 - novel_processor - INFO - Found character: 주인공, details: {'full_name': '주인공', 'aliases': ['그', '그는'], 'initial_description': '소설의 주인공'}
+2024-11-24 02:16:08,971 - novel_processor - INFO - Extracted event from chapter 0: 상위 랭커들이 헬가오를 공략하기 위해 모였다.
+2024-11-24 02:16:08,971 - novel_processor - INFO - Extracted event from chapter 0: 헬가오의 강력함에 대한 두려움이 커졌다.
+2024-11-24 02:16:08,971 - novel_processor - INFO - Extracted event from chapter 0: 침입자가 나타났다.
+2024-11-24 02:16:08,971 - novel_processor - INFO - Extracted event from chapter 0: 청년이 갑옷을 착용하기 시작했다.
+2024-11-24 02:16:18,378 - novel_processor - INFO - Extracted event from chapter 1: 청년이 극검의 경고를 무시하고 멋진 갑옷을 착용함.
+2024-11-24 02:16:18,378 - novel_processor - INFO - Extracted event from chapter 1: 지옥불의 주인 헬가오가 등장하여 길드원들에게 큰 피해를 입힘.
+2024-11-24 02:16:18,378 - novel_processor - INFO - Extracted event from chapter 1: 청년이 헬가오의 공격에도 불구하고 멀쩡하게 행동함.
+2024-11-24 02:16:18,378 - novel_processor - INFO - Extracted event from chapter 1: 청년이 곡괭이로 벽을 치며 불만을 토로함.
+2024-11-24 02:16:18,378 - novel_processor - INFO - Extracted event from chapter 1: 청년의 갑옷에 달린 꼬리가 헬가오의 공격에 맞서 싸움.
+2024-11-24 02:16:18,378 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 '북쪽 끝의 동굴'에 입장하여 압도적인 광경을 목격함.
+2024-11-24 02:16:23,498 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 '북쪽 끝의 동굴'에 입장하여 무구들을 발견함.
+2024-11-24 02:16:23,498 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 낡은 책을 발견하고 감정하기로 결심함.
+2024-11-24 02:16:23,498 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 플라리안의 눈을 사용하여 책의 감정을 보류함.
+2024-11-24 02:16:28,721 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 레전드리 아이템을 발견하고 그 가치를 깨닫다.
+2024-11-24 02:16:28,721 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 과거의 고생을 회상하며 감정적으로 반응하다.
+2024-11-24 02:16:28,721 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 아이템을 팔아 대출금을 갚을 계획을 세우다.
+2024-11-24 02:16:28,721 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 동창회에 참석하는 상상을 하다.
+2024-11-24 02:16:35,376 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 고등학교 동창회에 참석하기 위해 외제차를 끌고 등장하는 상상을 함.
+2024-11-24 02:16:35,376 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 퀘스트를 무시하고 아이템을 팔기로 결심함.
+2024-11-24 02:16:35,377 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 등장하고 주인공에게 분노함.
+2024-11-24 02:16:35,377 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 주인공에게 파그마의 기서를 찾으라는 의뢰를 맡김.
+2024-11-24 02:16:35,377 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작과 호위 기사들을 처치해야 하는 퀘스트 클리어 조건이 설정됨.
