@@ -148,3 +148,446 @@
 2024-11-24 02:16:35,377 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 등장하고 주인공에게 분노함.
 2024-11-24 02:16:35,377 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 주인공에게 파그마의 기서를 찾으라는 의뢰를 맡김.
 2024-11-24 02:16:35,377 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작과 호위 기사들을 처치해야 하는 퀘스트 클리어 조건이 설정됨.
+2024-11-24 17:32:28,337 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 17:32:28,690 - novel_processor - ERROR - Error: Novel processing failed
+2024-11-24 17:33:02,958 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 17:33:03,401 - novel_processor - ERROR - Error: Novel processing failed
+2024-11-24 17:34:07,049 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 17:34:07,602 - novel_processor - ERROR - Error: Error processing chunk
+2024-11-24 17:34:07,603 - novel_processor - ERROR - Error: Error processing chunk
+2024-11-24 17:34:07,603 - novel_processor - ERROR - Error: No characters found, using default character
+2024-11-24 17:34:07,604 - novel_processor - INFO - Found character: 주인공, details: {'full_name': '주인공', 'aliases': ['그', '그는'], 'initial_description': '소설의 주인공'}
+2024-11-24 17:34:13,929 - novel_processor - INFO - Extracted event from chapter 0: 상위 랭커들이 헬가오를 공략하기 위해 모였다.
+2024-11-24 17:34:13,948 - novel_processor - INFO - Extracted event from chapter 0: 헬가오의 강력함에 대한 두려움이 커졌다.
+2024-11-24 17:34:13,973 - novel_processor - INFO - Extracted event from chapter 0: 청년이 은기사 길드의 구역에 침입했다.
+2024-11-24 17:34:13,995 - novel_processor - INFO - Extracted event from chapter 0: 청년이 갑옷을 착용하며 주목을 받았다.
+2024-11-24 17:34:25,431 - novel_processor - INFO - Extracted event from chapter 1: 청년이 갑옷을 착용하며 길드원들의 감탄을 자아냄.
+2024-11-24 17:34:25,458 - novel_processor - INFO - Extracted event from chapter 1: 극검이 청년에게 외부인을 쫓아내라고 명령함.
+2024-11-24 17:34:25,488 - novel_processor - INFO - Extracted event from chapter 1: 지옥불의 주인 헬가오가 등장하여 길드원들에게 큰 피해를 줌.
+2024-11-24 17:34:25,516 - novel_processor - INFO - Extracted event from chapter 1: 청년이 헬가오의 공격에도 불구하고 멀쩡하게 행동함.
+2024-11-24 17:34:25,549 - novel_processor - INFO - Extracted event from chapter 1: 청년이 곡괭이로 벽을 치며 불평함.
+2024-11-24 17:34:25,566 - novel_processor - INFO - Extracted event from chapter 1: 청년의 갑옷에 달린 꼬리가 헬가오의 공격에 맞서 싸움.
+2024-11-24 17:34:25,588 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 '북쪽 끝의 동굴'에 입장함.
+2024-11-24 17:34:29,873 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 '북쪽 끝의 동굴'에 입장하여 무구들을 발견함.
+2024-11-24 17:34:29,892 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 낡은 책을 발견하고 감정하기로 결심함.
+2024-11-24 17:34:29,911 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 플라리안의 눈을 사용하여 책의 감정을 보류함.
+2024-11-24 17:34:34,575 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 레전드리 아이템을 발견하고 그 가치를 깨닫다.
+2024-11-24 17:34:34,596 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 과거의 고생을 회상하며 감정적으로 반응하다.
+2024-11-24 17:34:34,615 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 아이템을 경매에 등록할 계획을 세우다.
+2024-11-24 17:34:34,636 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 성공을 상상하며 기뻐하다.
+2024-11-24 17:34:40,272 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 고등학교 동창회에 참석하기 위해 외제차를 끌고 등장하는 상상을 함.
+2024-11-24 17:34:40,288 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 퀘스트를 무시하고 외제차를 팔기로 결심함.
+2024-11-24 17:34:40,306 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 등장하고 주인공에게 분노함.
+2024-11-24 17:34:40,322 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작의 의뢰를 저버리고 파그마의 기서를 빼돌리려 함.
+2024-11-24 17:34:40,338 - novel_processor - INFO - Extracted event from chapter 4: 퀘스트 클리어 조건이 아슈르 백작과 호위 기사들의 전멸로 설정됨.
+2024-11-24 17:41:30,615 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 17:41:31,019 - novel_processor - ERROR - Error: Error processing chunk
+2024-11-24 17:41:31,021 - novel_processor - ERROR - Error: Error processing chunk
+2024-11-24 17:41:31,021 - novel_processor - ERROR - Error: No characters found, using default character
+2024-11-24 17:41:31,021 - novel_processor - INFO - Found character: 주인공, details: {'full_name': '주인공', 'aliases': ['그', '그는'], 'initial_description': '소설의 주인공'}
+2024-11-24 17:41:36,253 - novel_processor - INFO - Extracted event from chapter 0: 상위 랭커들이 헬가오를 공략하기 위해 모였다.
+2024-11-24 17:41:36,279 - novel_processor - INFO - Extracted event from chapter 0: 헬가오의 강력함에 대한 두려움이 커졌다.
+2024-11-24 17:41:36,307 - novel_processor - INFO - Extracted event from chapter 0: 청년이 은기사 길드의 구역에 침입했다.
+2024-11-24 17:41:36,341 - novel_processor - INFO - Extracted event from chapter 0: 청년이 갑옷을 착용하며 주목을 받았다.
+2024-11-24 17:41:43,702 - novel_processor - INFO - Extracted event from chapter 1: 청년이 극검의 경고를 무시하고 멋진 갑옷을 착용함.
+2024-11-24 17:41:43,730 - novel_processor - INFO - Extracted event from chapter 1: 지옥불의 주인 헬가오가 등장하여 길드원들에게 큰 피해를 줌.
+2024-11-24 17:41:43,748 - novel_processor - INFO - Extracted event from chapter 1: 청년이 헬가오의 공격에도 불구하고 멀쩡하게 행동함.
+2024-11-24 17:41:43,766 - novel_processor - INFO - Extracted event from chapter 1: 청년이 곡괭이로 벽을 치며 헬가오의 공격을 무시함.
+2024-11-24 17:41:43,786 - novel_processor - INFO - Extracted event from chapter 1: 청년이 자신의 갑옷의 능력으로 헬가오의 공격을 방어함.
+2024-11-24 17:41:43,803 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 '북쪽 끝의 동굴'에 입장하여 무구를 발견함.
+2024-11-24 17:41:48,313 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 '북쪽 끝의 동굴'에 입장하여 무구들을 발견함.
+2024-11-24 17:41:48,331 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 낡은 책을 발견하고 감정하기로 결심함.
+2024-11-24 17:41:48,353 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 플라리안의 눈을 사용하여 책의 감정을 보류함.
+2024-11-24 17:41:52,331 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 레전드리 아이템을 발견하고 그 가치를 깨닫다.
+2024-11-24 17:41:52,366 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 과거의 고생을 회상하며 감정적으로 반응하다.
+2024-11-24 17:41:52,385 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 아이템을 경매에 등록할 계획을 세우다.
+2024-11-24 17:41:52,402 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 성공을 상상하며 기뻐하다.
+2024-11-24 17:41:58,637 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 고등학교 동창회에 참석하기 위해 외제차를 끌고 등장하는 상상을 함.
+2024-11-24 17:41:58,662 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 태양의 검은 에픽 아이템을 팔기로 결심함.
+2024-11-24 17:41:58,691 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 등장하고 주인공에게 분노함.
+2024-11-24 17:41:58,709 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 주인공에게 파그마의 기서를 찾으라는 의뢰를 맡김.
+2024-11-24 17:41:58,731 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작과 호위 기사들을 처치해야 하는 퀘스트 클리어 조건이 주어짐.
+2024-11-24 17:44:33,033 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 17:44:33,526 - novel_processor - ERROR - Error: Failed to identify characters: 'Input to PromptTemplate is missing variables {\'\\n                    "full_name"\'}.  Expected: [\'\\n                    "full_name"\', \'text\'] Received: [\'text\']\nNote: if you intended {\n                    "full_name"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n                    "full_name"}}\'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT '
+2024-11-24 17:44:33,526 - novel_processor - ERROR - Error: Novel processing failed
+2024-11-24 17:45:28,047 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 17:45:28,512 - novel_processor - ERROR - Error: Failed to identify characters: 'Input to PromptTemplate is missing variables {\'\\n                        "full_name"\'}.  Expected: [\'\\n                        "full_name"\', \'character_name\', \'text\'] Received: [\'text\', \'character_name\']\nNote: if you intended {\n                        "full_name"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n                        "full_name"}}\'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT '
+2024-11-24 17:45:28,513 - novel_processor - ERROR - Error: Novel processing failed
+2024-11-24 17:46:15,434 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 17:46:19,370 - novel_processor - ERROR - Error: Failed to parse character info for 당황하
+2024-11-24 17:46:22,400 - novel_processor - ERROR - Error: Failed to parse character info for 낯익
+2024-11-24 17:46:25,688 - novel_processor - ERROR - Error: Failed to parse character info for 있
+2024-11-24 17:46:28,506 - novel_processor - ERROR - Error: Failed to parse character info for 등장하
+2024-11-24 17:46:32,048 - novel_processor - ERROR - Error: Failed to parse character info for 거슬리
+2024-11-24 17:46:35,836 - novel_processor - ERROR - Error: Failed to parse character info for 없
+2024-11-24 17:46:38,587 - novel_processor - ERROR - Error: Failed to parse character info for 그들
+2024-11-24 17:46:43,208 - novel_processor - ERROR - Error: Failed to parse character info for 몇
+2024-11-24 17:46:45,545 - novel_processor - ERROR - Error: Failed to parse character info for 나
+2024-11-24 17:46:45,545 - novel_processor - ERROR - Error: No characters found, using default character
+2024-11-24 17:46:45,545 - novel_processor - INFO - Found character: 주인공, details: {'full_name': '주인공', 'aliases': ['그', '그는'], 'initial_description': '소설의 주인공', 'personality': {'traits': ['미상'], 'values': ['미상'], 'motivations': ['미상'], 'fears': ['미상']}, 'background': {'origin': '미상', 'occupation': '미상', 'skills': []}, 'story_role': '주인공', 'relationships': []}
+2024-11-24 17:46:52,121 - novel_processor - INFO - Extracted event from chapter 0: 상위 랭커들이 헬가오를 공략하기 위해 모였다.
+2024-11-24 17:46:52,145 - novel_processor - INFO - Extracted event from chapter 0: 헬가오의 강력함에 대한 두려움이 커졌다.
+2024-11-24 17:46:52,172 - novel_processor - INFO - Extracted event from chapter 0: 청년이 은기사 길드의 구역에 침입했다.
+2024-11-24 17:46:52,188 - novel_processor - INFO - Extracted event from chapter 0: 청년이 갑옷을 착용하며 주목을 받았다.
+2024-11-24 17:47:00,731 - novel_processor - INFO - Extracted event from chapter 1: 청년이 갑옷을 착용하며 길드원들의 주목을 받음.
+2024-11-24 17:47:00,749 - novel_processor - INFO - Extracted event from chapter 1: 극검이 청년을 쫓아내라고 명령함.
+2024-11-24 17:47:00,765 - novel_processor - INFO - Extracted event from chapter 1: 지옥불의 주인 헬가오가 등장함.
+2024-11-24 17:47:00,800 - novel_processor - INFO - Extracted event from chapter 1: 청년이 헬가오의 공격에도 불구하고 멀쩡함.
+2024-11-24 17:47:00,818 - novel_processor - INFO - Extracted event from chapter 1: 청년이 곡괭이질을 시작함.
+2024-11-24 17:47:00,841 - novel_processor - INFO - Extracted event from chapter 1: 청년이 헬가오의 공격을 피하며 대화함.
+2024-11-24 17:47:00,861 - novel_processor - INFO - Extracted event from chapter 1: 청년의 갑옷에 달린 꼬리가 헬가오와 싸움.
+2024-11-24 17:47:00,875 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 '북쪽 끝의 동굴'에 입장함.
+2024-11-24 17:47:06,491 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 '북쪽 끝의 동굴'에 입장하여 무구들을 발견함.
+2024-11-24 17:47:06,515 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 낡은 책을 발견하고 감정하기로 결심함.
+2024-11-24 17:47:06,542 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 플라리안의 눈을 사용하여 책의 감정을 보류함.
+2024-11-24 17:47:16,768 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 레전드리 아이템을 발견하고 그 가치를 깨닫다.
+2024-11-24 17:47:16,787 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 과거의 고난을 회상하며 감정적으로 반응하다.
+2024-11-24 17:47:16,813 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 아이템을 경매에 등록할 계획을 세우다.
+2024-11-24 17:47:16,831 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 성공을 상상하며 기뻐하다.
+2024-11-24 17:47:24,992 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 고등학교 동창회에 참석하기 위해 외제차를 끌고 등장하는 상상을 함.
+2024-11-24 17:47:25,015 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 태양의 검은 에픽 아이템을 포기하고 퀘스트를 무시하기로 결정함.
+2024-11-24 17:47:25,033 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 등장하고 주인공에게 분노를 표출함.
+2024-11-24 17:47:25,050 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작의 의뢰를 저버리고 파그마의 기서를 빼돌리려 함.
+2024-11-24 17:47:25,067 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작과 호위 기사들을 처치해야 하는 퀘스트를 받음.
+2024-11-24 17:52:22,031 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 17:52:29,017 - novel_processor - ERROR - Error: Failed to parse characters from chunk
+2024-11-24 17:52:32,894 - novel_processor - ERROR - Error: Failed to parse characters from chunk
+2024-11-24 17:52:36,683 - novel_processor - ERROR - Error: Failed to parse characters from chunk
+2024-11-24 17:52:36,684 - novel_processor - ERROR - Error: No characters found, using default character
+2024-11-24 17:52:36,684 - novel_processor - INFO - Found character: 주인공, details: {'full_name': '주인공', 'aliases': ['그', '그는'], 'initial_description': '소설의 주인공', 'personality': {'traits': ['미상'], 'values': ['미상'], 'motivations': ['미상'], 'fears': ['미상']}, 'background': {'origin': '미상', 'occupation': '미상', 'skills': []}, 'story_role': '주인공', 'relationships': []}
+2024-11-24 17:52:42,043 - novel_processor - INFO - Extracted event from chapter 0: 상위 랭커들이 헬가오를 공략하기 위해 모였다.
+2024-11-24 17:52:42,084 - novel_processor - INFO - Extracted event from chapter 0: 헬가오의 강력함에 대한 두려움이 커졌다.
+2024-11-24 17:52:42,119 - novel_processor - INFO - Extracted event from chapter 0: 청년이 은기사 길드의 구역에 침입했다.
+2024-11-24 17:52:42,142 - novel_processor - INFO - Extracted event from chapter 0: 청년이 갑옷을 착용하며 주목을 받았다.
+2024-11-24 17:52:50,297 - novel_processor - INFO - Extracted event from chapter 1: 청년이 갑옷을 착용하며 길드원들의 주목을 받음.
+2024-11-24 17:52:50,327 - novel_processor - INFO - Extracted event from chapter 1: 극검이 청년을 쫓아내라고 명령함.
+2024-11-24 17:52:50,355 - novel_processor - INFO - Extracted event from chapter 1: 지옥불의 주인 헬가오가 등장함.
+2024-11-24 17:52:50,376 - novel_processor - INFO - Extracted event from chapter 1: 청년이 헬가오의 공격에도 불구하고 멀쩡함.
+2024-11-24 17:52:50,408 - novel_processor - INFO - Extracted event from chapter 1: 청년이 곡괭이로 벽을 치기 시작함.
+2024-11-24 17:52:50,431 - novel_processor - INFO - Extracted event from chapter 1: 청년이 헬가오의 공격을 피하며 대화함.
+2024-11-24 17:52:50,463 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 '북쪽 끝의 동굴'에 입장함.
+2024-11-24 17:52:55,770 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 '북쪽 끝의 동굴'에 입장하여 무구들을 발견함.
+2024-11-24 17:52:55,791 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 낡은 책을 발견하고 감정하기로 결심함.
+2024-11-24 17:52:55,814 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 플라리안의 눈을 사용하여 책의 감정을 보류함.
+2024-11-24 17:53:01,150 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 레전드리 아이템을 발견하고 그 가치를 깨닫다.
+2024-11-24 17:53:01,169 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 과거의 고생을 회상하며 감정적으로 반응하다.
+2024-11-24 17:53:01,186 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 아이템을 경매에 등록할 계획을 세우다.
+2024-11-24 17:53:01,204 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 성공을 상상하며 기뻐하다.
+2024-11-24 17:53:09,061 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 고등학교 동창회에 참석하기 위해 외제차를 끌고 등장하는 상상을 함.
+2024-11-24 17:53:09,088 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 퀘스트를 무시하고 외제차를 팔기로 결심함.
+2024-11-24 17:53:09,109 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 등장하고 주인공에게 분노함.
+2024-11-24 17:53:09,128 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작의 의뢰를 저버리고 파그마의 기서를 빼돌리려 함.
+2024-11-24 17:53:09,146 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작과 호위 기사들을 처치해야 하는 퀘스트를 받음.
+2024-11-24 17:57:35,331 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 17:57:56,429 - novel_processor - ERROR - Error: Failed to identify characters: 'NovelProcessor' object has no attribute '_analyze_single_character'
+2024-11-24 17:57:56,430 - novel_processor - ERROR - Error: Novel processing failed
+2024-11-24 18:00:07,267 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 18:02:10,883 - novel_processor - INFO - Found character: 극검, details: {'full_name': '극검', 'aliases': [], 'initial_description': '통합 랭킹 16위의 상위 랭커로, 은기사 길드의 정예들과 함께 헬가오를 공략하기 위해 모인 인물.', 'personality': {'traits': ['긴장감', '불안감', '결단력', '리더십', '절망', '경악', '혼란', '흥분', '희망적', '당당함', '호기심', '어리석음'], 'values': ['강함', '성공', '동료에 대한 책임감', '생존', '자아 실현', '경제적 독립', '자유', '모험', '명성'], 'motivations': ['헬가오를 처치하고 성공적인 원정을 이루기 위해', '길드의 명예를 지키기 위해', '길드원들을 구하고자 하는 의지', '게임 내 성공', '경제적 문제 해결', '사회적 인정', '파그마의 기서를 찾으려는 욕심', '자신의 명성을 회복하려는 의지'], 'fears': ['헬가오의 강력함', '원정 실패로 인한 동료의 죽음', '자신의 나약함', '동료의 죽음', '무력함', '실패', '사회적 비난', '경제적 어려움', '실패에 대한 두려움', '타인에게 비난받는 것']}, 'background': {'origin': '상위 랭커로서 던전 공략에 참여하는 캐릭터', 'occupation': '상위 랭커', 'skills': ['검술', '전투 전략', '팀 리더십', '화염 저항력', '전투 기술', '아이템 거래', '퀘스트 수행', '게임 내 전략', '탐험 능력']}, 'story_role': '길드의 리더로서 헬가오와의 전투를 이끌어가는 역할', 'relationships': [{'name': '아슈르 백작', 'relationship_type': '적대적', 'description': '퀘스트를 맡긴 인물로, 극검의 욕심을 경계하는 인물'}, {'name': '친구들', 'relationship_type': '과거의 동료', 'description': '극검이 성공하기 전 무시했던 친구들'}, {'name': '첫사랑 아영이', 'relationship_type': '과거의 사랑', 'description': '극검이 성공 후 다시 만나고 싶어하는 인물'}, {'character': '아슈르 백작', 'relationship_type': '적대적', 'status': '호감도 -100'}, {'character': '파트리안 주민들', 'relationship_type': '적대적', 'status': '호감도 -40'}]}
+2024-11-24 18:02:10,987 - novel_processor - INFO - Found character: 헬가오, details: {'full_name': '헬가오', 'aliases': ['지옥불의 주인'], 'initial_description': '코크로 섬 던전 4층에 출현하는 보스 몬스터로, 묵색 불꽃을 전신에 두르고 열풍을 일으키는 강력한 존재.', 'personality': {'traits': ['강력함', '위협적', '무자비함', '강력한', '신비로운', '흥분', '결단력', '자신감', '당당함', '호기심', '어리석음'], 'values': ['힘의 우월성', '공포의 지배', '성공', '자아 실현', '경제적 독립', '자유', '모험', '명성'], 'motivations': ['적을 처치하고 자신의 영역을 지키기 위해', '게임 내 성공', '경제적 문제 해결', '사회적 인정', '파그마의 기서를 찾고자 하는 욕심', '아슈르 백작의 의뢰 수행'], 'fears': ['실패', '사회적 비난', '경제적 어려움', '실패에 대한 두려움', '악명 높은 존재가 되는 것']}, 'background': {'origin': '코크로 섬 던전 4층', 'occupation': '보스 몬스터', 'skills': ['화염 공격', '공포 효과', '강력한 물리적 힘', '강력한 화염 공격', '신비로운 힘', '아이템 발견', '퀘스트 수행', '전직', '탐험', '전투 기술', '전략적 사고']}, 'story_role': '주요 보스 몬스터로, 플레이어들에게 큰 위협이 되는 존재.', 'relationships': [{'character': '아슈르 백작', 'relationship_type': '적대적', 'status': '호감도 -100'}, {'character': '파트리안 주민들', 'relationship_type': '적대적', 'status': '호감도 -40'}]}
+2024-11-24 18:02:11,026 - novel_processor - INFO - Found character: 청년, details: {'full_name': '청년', 'aliases': ['게임 폐인', '인생 쪽 난 놈'], 'initial_description': '혈혈단신으로 던전에 입장한 청년. 무기도 갑옷도 없이 망토 하나만 휘두르고 있다.', 'personality': {'traits': ['대담함', '여유로움', '능숙함', '여유', '태연함', '짜증', '흥분', '절망', '희망', '자신감', '당당함', '호기심', '어리석음'], 'values': ['자신감', '독립성', '효율성', '실용성', '성공', '자아 실현', '경제적 독립', '자유', '모험'], 'motivations': ['도전', '자신의 능력 증명', '자신의 목표를 달성하기 위해 노력', '노가다를 통해 자원을 얻고자 함', '게임을 통해 성공하기', '부모님과 친구들에게 인정받기', '경제적 문제 해결', '게임 종료', '퀘스트 클리어'], 'fears': ['실패', '무시당하는 것', '위험한 상황에서의 무능력', '자신의 능력에 대한 의구심', '주변의 비웃음', '경제적 어려움', '죽음']}, 'background': {'origin': '정체 불명의 출신', 'occupation': '미상', 'skills': ['곡괭이 사용 능력', '신속한 갑옷 장착', '곡괭이 사용 능숙', '화염 저항력', '게임 아이템 거래', '퀘스트 수행 능력', '전투 능력', '탐험 능력']}, 'story_role': '예상치 못한 외부인으로서 헬가오와의 전투에서 중요한 역할을 할 것으로 보임.', 'relationships': [{'relation': '부모', 'description': '부모님은 청년이 게임을 그만두고 취직하길 바람.'}, {'relation': '친구들', 'description': '청년은 친구들에게 무시당하고, 자신의 성공을 증명하고 싶어함.'}, {'relation': '첫사랑 아영', 'description': '청년은 아영이의 반응을 기대하며 성공한 모습을 상상함.'}, {'relation': '아슈르 백작', 'description': '퀘스트를 통해 만난 인물로, 청년의 욕심을 경계함.'}, {'character': '아슈르 백작', 'relationship_status': '적대적', 'affection_level': -100}, {'character': '파트리안 주민들', 'relationship_status': '적대적', 'affection_level': -40}]}
+2024-11-24 18:02:11,072 - novel_processor - INFO - Found character: 아슈르 백작, details: {'full_name': '아슈르 백작', 'aliases': [], 'initial_description': '청년이 혈혈단신으로 입장하여 독특한 갑옷을 착용하고 있는 모습이 인상적이다.', 'personality': {'traits': ['여유', '결단력', '능숙함', '능글능글함', '교활함', '어리석은 욕심', '권위적', '분노'], 'values': ['자신감', '독립성', '자신의 이익을 우선시함', '타인을 이용하는 것에 거리낌이 없음', '자신의 이익', '권력 유지', '명예', '권력'], 'motivations': ['강력한 적에 맞서 싸우기', '자신의 능력을 증명하기', '주인공에게 퀘스트를 부여하여 자신의 목적을 달성하려 함', '자신의 욕망을 충족시키기 위해 여행자를 이용하려는 의도', '파그마의 기서를 찾기 위한 욕심', '자신의 권위 유지'], 'fears': ['실패', '무능력', '자신의 계획이 실패할까 두려움', '자신의 권위가 도전받는 것', '자신의 권력이 위협받는 것', '배신']}, 'background': {'origin': '정확한 출신 배경은 불명', 'occupation': '정체 불명의 전사', 'skills': ['곡괭이 사용 능력', '전투 기술', '화염 저항', '고급 무구 제작', '퀘스트 관리', '조종', '계략', '감시', '전투 능력', '전략적 사고']}, 'story_role': '던전에서 헬가오와 싸우는 주요 인물로 등장', 'relationships': [{'character': '플레이어', 'relationship_status': '적대적', 'impact': '호감도 -100, 악명 상승'}]}
+2024-11-24 18:02:11,102 - novel_processor - INFO - Found character: 파그마, details: {'full_name': '파그마', 'aliases': [], 'initial_description': '청년이 혈혈단신으로 입장하여 독특한 갑옷을 착용하고 있는 모습이 인상적이다.', 'personality': {'traits': ['여유', '대담함', '능숙함', '끈기', '대장장이로서의 자부심', '대장장이', '장인정신', '전설적인'], 'values': ['자신감', '독립성', '기술의 중요성', '노력의 가치', '기술의 완성', '전통의 계승'], 'motivations': ['던전 탐험', '강력한 적에 대한 도전', '전설적인 기술을 습득하고자 하는 열망', '자신의 능력을 증명하고자 하는 욕구', '대장장이로서의 명성', '후계자 양성'], 'fears': ['자신의 기술이 부족하다는 두려움', '목표를 이루지 못할까 하는 불안', '기술의 소멸', '후계자의 부재']}, 'background': {'origin': '정체 불명의 청년으로, 랭커가 아닌 것으로 보인다.', 'occupation': '던전 탐험가', 'skills': ['곡괭이 사용 능숙', '전투 기술', '대장장이 기술', '아이템 제작', '퀘스트 수행 능력', '무기 제작', '아이템 감정', '전직서 제작']}, 'story_role': '던전에서 헬가오와의 전투 중에 등장하여 상황을 변화시키는 인물.', 'relationships': [{'character': '아슈르 백작', 'relationship_type': '적대적', 'description': '아슈르 백작은 파그마의 기서를 찾기 위해 주인공을 이용하려 했으나, 주인공이 욕심을 부리자 적대감을 품게 됨.'}]}
+2024-11-24 18:02:11,135 - novel_processor - INFO - Found character: 세희, details: {'full_name': '세희', 'aliases': [], 'initial_description': '코크로 섬 던전 4층에 침입한 청년으로, 무장하지 않고 망토 하나만 휘두르고 있는 모습이 이색적이다.', 'personality': {'traits': ['대담함', '여유로움', '능숙함', '여유로운', '짜증을 잘 내는', '능숙한', '유머러스한', '흥분', '결단력', '자신감', '상상력', '당당함', '호기심', '모험심'], 'values': ['자신감', '독립성', '자원 채취의 중요성', '효율성', '성공', '자유', '인정받기', '정의', '모험'], 'motivations': ['던전 탐험', '보스 몬스터 헬가오 처치', '자원 확보', '게임의 목표 달성', '게임에서의 성공', '경제적 자립', '사회적 인정', '자신의 목표 달성', '모험을 통한 성장'], 'fears': ['실패', '자원 부족', '무시당하는 것', '경제적 어려움', '타인에게 배신당하는 것']}, 'background': {'origin': '정체 불명의 청년으로, 랭커가 아닌 것으로 보인다.', 'occupation': '던전 탐험가', 'skills': ['곡괭이 사용 능력', '전투 기술', '화염 저항력', '아이템 발견', '게임 내 전략 수립', '자원 관리', '탐험 능력', '전략적 사고']}, 'story_role': '던전에서 헬가오와 싸우는 다른 길드원들과 대조적으로, 혼자서 능숙하게 행동하는 인물.', 'relationships': [{'relation': '가족', 'description': '부모님과의 관계에서 경제적 자립을 이루고 싶어함.'}, {'relation': '친구', 'description': '과거의 친구들과의 관계에서 무시당하는 것에 대한 두려움이 있음.'}, {'relation': '첫사랑 아영이', 'description': '성공 후 아영이와의 재회를 꿈꾸고 있음.'}, {'character': '아슈르 백작', 'relationship_type': '적대적', 'status': '호감도 -100'}, {'character': '파트리안 주민들', 'relationship_type': '적대적', 'status': '호감도 -40'}]}
+2024-11-24 18:02:11,156 - novel_processor - INFO - Found character: 아영, details: {'full_name': '아영', 'aliases': [], 'initial_description': '아영은 코크로 섬 던전에서 헬가오와의 전투 중 등장하는 신비로운 청년으로, 독특한 갑옷을 착용하고 있으며, 전투 중에도 여유로운 태도를 유지한다.', 'personality': {'traits': ['여유로운', '신비로운', '능숙한', '짜증을 잘 내는', '사랑스러운', '이해심 많은', '지지하는', '어리석음', '욕심', '당황함'], 'values': ['자신감', '결단력', '효율성', '실용성', '사랑', '성공', '인정', '자신의 이익 추구', '모험심'], 'motivations': ['던전 공략 성공', '자신의 능력 증명', '자신의 목표를 달성하기 위해 노력', '게임 내에서의 성취', '주인공의 성공을 응원', '주변 사람들의 시선에 대한 걱정', '파그마의 기서를 찾으려는 욕심', '명성과 인정을 얻고자 하는 욕망'], 'fears': ['실패', '동료의 죽음', '무능력', '주인공이 실패하는 것', '주변의 비웃음', '아슈르 백작의 분노', '모든 명성을 잃는 것']}, 'background': {'origin': '정체불명의 청년으로, 던전의 수비를 뚫고 들어온 인물', 'occupation': '미지의 전사', 'skills': ['곡괭이 사용 능력', '전투 기술', '은신', '곡괭이질', '화염 저항', '전투 능력', '탐험 능력']}, 'story_role': '던전에서 헬가오와의 전투 중 중요한 역할을 맡으며, 극검과 다른 길드원들에게 큰 영향을 미친다.', 'relationships': [{'relation': '첫사랑', 'character': '주인공'}, {'character': '아슈르 백작', 'relationship': '적대적', 'status': '호감도 -100'}, {'character': '파트리안 주민들', 'relationship': '적대적', 'status': '호감도 -40'}]}
+2024-11-24 18:02:17,782 - novel_processor - INFO - Extracted event from chapter 0: 상위 랭커들이 헬가오를 공략하기 위해 모였다.
+2024-11-24 18:02:17,799 - novel_processor - INFO - Extracted event from chapter 0: 헬가오의 강력함에 대한 두려움이 커진다.
+2024-11-24 18:02:17,815 - novel_processor - INFO - Extracted event from chapter 0: 청년이 은기사 길드의 구역에 침입한다.
+2024-11-24 18:02:17,838 - novel_processor - INFO - Extracted event from chapter 0: 청년이 갑옷을 착용하며 자신의 정체를 드러낸다.
+2024-11-24 18:02:28,128 - novel_processor - INFO - Extracted event from chapter 1: 청년이 갑옷을 착용하며 길드원들의 주목을 받음.
+2024-11-24 18:02:28,155 - novel_processor - INFO - Extracted event from chapter 1: 극검이 청년을 쫓아내지 않으면 헬가오가 등장할 것이라고 경고함.
+2024-11-24 18:02:28,177 - novel_processor - INFO - Extracted event from chapter 1: 헬가오가 등장하고 길드원들에게 큰 피해를 입힘.
+2024-11-24 18:02:28,196 - novel_processor - INFO - Extracted event from chapter 1: 청년이 헬가오의 공격에도 불구하고 멀쩡하게 행동함.
+2024-11-24 18:02:28,213 - novel_processor - INFO - Extracted event from chapter 1: 청년이 곡괭이로 벽을 치며 불평함.
+2024-11-24 18:02:28,230 - novel_processor - INFO - Extracted event from chapter 1: 청년이 자신의 갑옷에 달린 꼬리로 헬가오의 공격을 막음.
+2024-11-24 18:02:28,251 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 '북쪽 끝의 동굴'에 입장함.
+2024-11-24 18:02:32,931 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 '북쪽 끝의 동굴'에 입장하여 무구들을 발견함.
+2024-11-24 18:02:32,947 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 낡은 책을 발견하고 감정하기로 결심함.
+2024-11-24 18:02:32,967 - novel_processor - INFO - Extracted event from chapter 2: 주인공이 플라리안의 눈을 사용하여 책의 감정을 시도함.
+2024-11-24 18:02:37,641 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 레전드리 아이템을 발견하고 그 가치를 깨닫다.
+2024-11-24 18:02:37,664 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 과거의 고생을 회상하며 감정적으로 반응하다.
+2024-11-24 18:02:37,689 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 아이템을 경매에 등록할 계획을 세우다.
+2024-11-24 18:02:37,707 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 성공을 상상하며 기뻐하다.
+2024-11-24 18:02:44,604 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 고등학교 동창회에 참석하기 위해 외제차를 끌고 등장하는 상상을 함.
+2024-11-24 18:02:44,621 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 태양의 검을 팔기로 결심함.
+2024-11-24 18:02:44,637 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 로그아웃을 시도하지만 실패하고 아슈르 백작이 등장함.
+2024-11-24 18:02:44,653 - novel_processor - INFO - Extracted event from chapter 4: 아슈르 백작이 주인공에게 파그마의 기서를 찾으라는 의뢰를 맡김.
+2024-11-24 18:02:44,672 - novel_processor - INFO - Extracted event from chapter 4: 주인공이 아슈르 백작과 호위 기사들을 처치해야 하는 퀘스트를 받음.
+2024-11-24 19:59:45,230 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 20:03:44,561 - novel_processor - INFO - Found character: 이현, details: {'full_name': '이현', 'aliases': [], 'initial_description': '가난한 환경에서 힘겹게 살아가는 청년으로, 가족을 부양하기 위해 여러 가지 일을 하며 생계를 이어가는 인물.', 'personality': {'traits': ['근면성실', '책임감 강함', '내성적', '독립적', '신중함', '무관심', '독한 집념', '긍정적', '책임감', '강한 의지', '두려움 없는 태도', '냉철함'], 'values': ['가족에 대한 사랑', '돈의 가치', '자기 발전', '자유', '경제적 안정', '개인적 성취', '개인 공간', '자신의 목표', '정직함', '노력', '정의감', '가족에 대한 책임감'], 'motivations': ['여동생의 대학 진학', '할머니의 건강 회복', '경제적 안정', '돈을 벌기 위해 캐릭터를 판매하려는 의도', '가족을 위한 경제적 지원', '게임에서의 성취', '자신의 능력 증명', '가족을 돕고 싶다', '행복한 삶', '부모님의 빚을 갚고 싶음', '자신과 가족을 보호하고 싶음'], 'fears': ['가족을 잃는 것', '가난한 삶에서 벗어나지 못하는 것', '경제적 어려움', '가족의 건강 문제', '사람들과의 관계에서의 불편함', '주목받는 것', '가족의 고통', '과거의 빚', '행복이 사라지는 것', '사채업자들에게 해를 입는 것', '가족이 위험에 처하는 것']}, 'background': {'origin': '부모님을 잃고 할머니와 여동생과 함께 살아가는 가난한 가정', 'occupation': '불법적으로 여러 가지 일을 하며 생계를 유지하는 청년', 'skills': ['재활용품 수집', '제봉 기술', '게임 플레이 능력', '캐릭터 관리', '온라인 거래', '게임 플레이 기술', '전투 기술', '장비 관리', '게임 플레이', '위기 대처 능력', '강한 정신력']}, 'story_role': '가족을 부양하기 위해 고군분투하는 주인공으로, 게임을 통해 잠시나마 현실을 잊고 즐거움을 찾는 인물.', 'relationships': [{'relation': '할머니', 'description': '이현의 할머니로, 최근에 건강이 나빠져 집에서 요양 중.'}, {'relation': '여동생 이혜연', 'description': '이현의 여동생으로, 불량배들과 어울리며 방황 중인 청소년.'}, {'relation': '할머니', 'description': '이현의 할머니는 그의 가장 가까운 가족으로, 이현의 성공에 감격하며 함께 기뻐한다.'}, {'relation': '여동생 혜연', 'description': '이현의 여동생으로, 이현의 성공을 함께 기뻐하며 가족의 미래에 대한 희망을 공유한다.'}, {'relation': '부모님', 'description': '이현은 부모님을 잃고 그들의 빚을 상속받아 힘든 상황에 처해 있다.'}, {'relation': '할머니', 'description': '이현의 보호자이자 가족의 일원'}, {'relation': '여동생', 'description': '이현이 보호하고 싶어하는 가족'}, {'relation': '사채업자들', 'description': '이현의 빚을 갚으라고 협박하는 적대적인 인물들'}]}
+2024-11-24 20:03:44,679 - novel_processor - INFO - Found character: 이혜연, details: {'full_name': '이혜연', 'aliases': [], 'initial_description': '이현의 여동생으로, 머리가 좋고 총명한 아이.', 'personality': {'traits': ['총명함', '독립적', '강한 의지', '신중함', '결단력', '경제적 사고', '내성적', '무관심', '상냥함', '이해심', '긍정적'], 'values': ['가족에 대한 사랑', '자기 발전', '가족에 대한 책임감', '자립심', '자유', '개인적 성취', '가족의 중요성', '행복한 삶에 대한 희망'], 'motivations': ['대학 진학', '좋은 남편을 만나 행복한 삶', '가족의 병원비와 학비를 지원하기 위해 돈을 벌고자 함', '게임에서의 성취를 통해 인정받고 싶음', '자신의 능력을 증명하고 싶음', '게임에서의 성취', '가족과 함께 행복하게 살고 싶음'], 'fears': ['가족의 고통', '불행한 미래', '가족의 경제적 어려움', '자신의 캐릭터가 사라지는 것', '타인과의 관계에서 소외될까 두려움', '자신의 능력이 과소평가될까 두려움', '가족이 다시 힘든 상황에 처하는 것', '경제적 어려움']}, 'background': {'origin': '가난한 가정에서 자람', 'occupation': '학생', 'skills': ['게임 플레이 능력', '캐릭터 거래에 대한 지식', '게임 플레이 기술', '전투 기술', '장비 관리']}, 'story_role': '이현의 여동생으로, 가족의 미래를 위해 노력하는 인물.', 'relationships': [{'relation': '형', 'name': '이현', 'description': '이혜연의 오빠로, 그녀를 지켜주고 싶어하는 인물.'}, {'relation': '할머니', 'name': '할머니', 'description': '이혜연과 이현을 기르기 위해 고생한 인물.'}, {'relation': '형', 'name': '이현', 'description': '이혜연의 형으로, 가족을 위해 노력하는 인물.'}, {'relation': '할머니', 'name': '할머니', 'description': '이혜연과 이현의 할머니로, 가족의 지지자.'}, {'relation': '형', 'name': '이현'}, {'relation': '할머니', 'name': '할머니'}]}
+2024-11-24 20:03:44,720 - novel_processor - INFO - Found character: 할머니, details: {'full_name': '할머니', 'aliases': [], 'initial_description': '이현의 할머니로, 허리를 삐끗하여 집에서 쉬고 있는 노인.', 'personality': {'traits': ['약한', '고집 센', '사려 깊은', '사랑받는 가족 구성원', '경제적 부담을 주는 존재', '감정이 풍부하다', '상냥하다', '걱정이 많다', '슬픔', '강인함', '희생정신'], 'values': ['가족에 대한 사랑', '희생', '가족의 건강과 행복', '경제적 안정', '가족의 행복', '정직함', '노력의 가치', '책임감'], 'motivations': ['가족을 지키고 돌보려는 마음', '가족의 병원비를 지원받기 위해 노력', '이현과 함께 행복하게 살고 싶다', '가족의 미래를 걱정한다', '가족을 지키고 싶음', '이현을 돕고 싶음'], 'fears': ['가족에게 부담이 되는 것', '더 이상 가족을 돌볼 수 없는 것', '자신의 건강 문제로 가족에게 걱정을 끼치는 것', '가족이 다시 힘든 상황에 처하는 것', '이현이 힘들어하는 것', '가족의 안전', '이현의 미래에 대한 걱정']}, 'background': {'origin': '가난한 환경에서 이현과 이혜연을 기르며 살아온 배경', 'occupation': '주로 가정주부로서 가족을 돌보는 역할', 'skills': ['가사 능력', '가족을 돌보는 능력', '가사일', '인내심']}, 'story_role': '이현과 이혜연의 가족으로서, 그들의 삶에 중요한 영향을 미치는 인물.', 'relationships': [{'relation': '손자', 'name': '이현'}, {'relation': '손녀', 'name': '이혜연'}, {'relation': '손자', 'name': '이현', 'description': '할머니와 깊은 정서적 유대감을 가진 손자. 할머니를 위해 노력하고, 함께 행복한 미래를 꿈꾼다.'}, {'relation': '손녀', 'name': '혜연', 'description': '이현의 여동생으로, 할머니와 함께 기뻐하며 가족의 행복을 공유한다.'}]}
+2024-11-24 20:03:44,760 - novel_processor - INFO - Found character: 이현, details: {'full_name': '이현', 'aliases': [], 'initial_description': '가난한 환경에서 힘겹게 살아가는 청년으로, 가족을 부양하기 위해 여러 가지 일을 하며 생계를 이어가는 인물.', 'personality': {'traits': ['근면성실', '책임감 강함', '내성적', '독립적', '신중함', '조용한', '혼자 있는 것을 선호하는', '무관심한', '지적', '능숙함', '결단력', '강한 의지', '보호 본능'], 'values': ['가족에 대한 사랑', '정직', '노력의 가치', '자유', '모험', '자기 발전', '자신의 세계를 중시하는', '타인의 시선에 개의치 않는', '전문성', '신뢰', '효율성', '정의감'], 'motivations': ['가족을 부양하고 여동생을 대학에 보내기 위해', '자신의 삶을 개선하기 위해', '경제적 안정', '자신의 능력 증명', '게임에서의 성취', '자신만의 플레이 스타일 유지', '회사의 성공', '자신의 경력 발전', '가족을 지키고 싶어함', '부당한 상황에 맞서고자 함'], 'fears': ['가족을 잃는 것', '가난에서 벗어나지 못하는 것', '경제적 어려움', '가상현실에서의 고립', '자신의 노력에 대한 무시', '타인과의 관계에서 소외되는 것', '자신의 능력이 드러나는 것', '실수로 인한 신뢰 상실', '회사의 실패', '가족이 해를 입는 것', '사채업자들에게서 벗어나지 못하는 것']}, 'background': {'origin': '가난한 가정에서 자라남, 부모님은 일찍 돌아가시고 할머니와 여동생과 함께 생활', 'occupation': '불법적으로 여러 가지 일을 하며 생계를 유지', 'skills': ['일에 대한 높은 이해도', '게임 플레이 능력', '문제 해결 능력', '전투 기술', '전략적 사고', '자원 관리', '장비 관리', '다국어 구사', '커뮤니케이션', '조직 관리', '가족을 지키기 위한 강한 의지']}, 'story_role': '주인공으로서 가난과 싸우며 성장하는 인물', 'relationships': [{'relation': '할머니', 'description': '이현의 할머니로, 병약한 상태에서 이현과 여동생을 돌보며 힘겹게 살아가고 있음.'}, {'relation': '여동생 이혜연', 'description': '이현의 여동생으로, 이현이 보호하고 싶어하는 인물. 현재 방황 중.'}, {'relation': '형', 'name': '이현', 'description': '여영의 오빠로, 가족을 지키기 위해 고군분투하고 있다.'}, {'relation': '할머니', 'name': '할머니', 'description': '여영과 이현의 보호자이자 가족의 일원으로, 슬픔을 겪고 있다.'}]}
+2024-11-24 20:03:44,791 - novel_processor - INFO - Found character: 이현, details: {'full_name': '이현', 'aliases': [], 'initial_description': '가난한 환경에서 자란 청소년으로, 가족을 부양하기 위해 여러 가지 일을 하며 힘든 삶을 살아가는 캐릭터.', 'personality': {'traits': ['근면성실', '책임감 강함', '내성적', '독립적', '혼자 플레이를 선호', '사람들과 어울리지 않음', '조용한 성격', '무시무시한 전투 능력', '소문이 자자한 유명인', '희소성', '인기', '가치 있는 자산', '강한', '결단력 있는', '보호 본능이 강한'], 'values': ['가족에 대한 사랑', '정직', '노력의 가치', '자유로운 모험', '개인적 성취', '자신의 능력에 대한 자부심', '타인과의 관계를 중시하지 않음', '노력', '정의감'], 'motivations': ['가족을 부양하고 여동생을 대학에 보내기 위해', '자신의 삶을 개선하기 위해', '최고 레벨 달성', '게임 내에서의 명성', '게임 내에서의 독립적인 존재감 유지', '가족을 돕기 위해 돈을 벌고자 함', '게임에서의 성공', '가족을 보호하고 싶어함', '부당한 상황에 맞서고자 함'], 'fears': ['가족을 잃는 것', '가난한 삶에서 벗어나지 못하는 것', '사람들과의 갈등', '자신의 능력에 대한 의심', '타인과의 관계에서 소외될까 두려움', '자신의 능력이 과소평가될까 두려움', '가족의 재정적 어려움', '과거의 빚', '가족이 해를 입는 것', '사채업자들에게서 벗어나지 못하는 것']}, 'background': {'origin': '어릴 때 부모님을 잃고 할머니와 여동생과 함께 살며 가난한 환경에서 성장함.', 'occupation': '불법적으로 여러 가지 일을 하며 생계를 유지함.', 'skills': ['일에 대한 높은 이해도', '게임 플레이 능력', '문제 해결 능력', '최고 레벨 200', '강력한 장비 보유', '다양한 전투 기술', '전투 기술', '게임 내 전략적 사고', '장비 관리', '게임 내에서의 높은 가치', '아이템 거래', '가족을 지키기 위한 강한 의지']}, 'story_role': '주인공으로서 가난과 싸우며 가족을 지키기 위해 노력하는 캐릭터.', 'relationships': [{'relation': '할머니', 'description': '이현의 할머니로, 이현과 여동생을 키우기 위해 힘든 삶을 살아온 인물.'}, {'relation': '여동생 이혜연', 'description': '이현의 여동생으로, 이현이 보호하고 싶어하는 인물.'}, {'relation': '이현', 'type': '주인', 'description': '위드는 이현이 소유한 캐릭터로, 이현의 재정적 성공에 중요한 역할을 함.'}, {'relation': '할머니', 'type': '가족', 'description': '이현의 할머니로, 위드의 경매 성공으로 인해 감격함.'}, {'relation': '여동생 혜연', 'type': '가족', 'description': '이현의 여동생으로, 위드의 성공에 기뻐함.'}, {'relation': '형', 'name': '이현', 'description': '위드의 형으로, 가족을 지키기 위해 고군분투하고 있음.'}, {'relation': '할머니', 'name': '할머니', 'description': '위드와 함께 병원에 입원해 있는 가족.'}]}
+2024-11-24 20:03:44,818 - novel_processor - INFO - Found character: 이현, details: {'full_name': '이현', 'aliases': [], 'initial_description': '가난한 환경에서 힘들게 살아가는 청년으로, 게임을 통해 유일한 즐거움을 찾고 있는 캐릭터.', 'personality': {'traits': ['근면성실', '책임감', '내성적', '고독함', '독립적', '신중함', '지적', '능숙함', '신뢰성'], 'values': ['가족에 대한 사랑', '정직', '노력의 가치', '자유', '자기 발전', '전문성', '효율성', '신뢰'], 'motivations': ['여동생과 할머니를 지키고 부양하기 위해', '경제적 안정 추구', '경제적 안정', '자신의 능력 증명', '게임에서의 성취', '업무 수행', '회사의 성공', '자신의 경력 발전'], 'fears': ['가족을 잃는 것', '가난에서 벗어나지 못하는 것', '경제적 어려움', '가족의 건강 문제', '사회적 고립', '실수', '신뢰를 잃는 것', '업무에 대한 책임']}, 'background': {'origin': '가난한 가정에서 자라남, 부모님을 일찍 잃고 할머니와 여동생과 함께 생활', 'occupation': '불법적으로 여러 직업을 전전하며 생계를 유지', 'skills': ['게임 플레이 능력', '노동 능력', '문제 해결 능력', '전략적 사고', '8개 국어 구사', '업무 관리', '커뮤니케이션']}, 'story_role': '주인공으로서 가난과 싸우며 성장하는 캐릭터', 'relationships': [{'relation': '여동생', 'name': '이혜연', 'description': '이현의 여동생으로, 이현이 보호하고 싶어하는 인물'}, {'relation': '할머니', 'name': '할머니', 'description': '이현과 이혜연을 키운 인물로, 현재 건강이 좋지 않음'}, {'relation': '형', 'name': '이현', 'description': '윤나희의 보호자 역할을 하고 있으며, 그녀의 안전을 걱정하고 있음.'}, {'relation': '할머니', 'name': '할머니', 'description': '가족의 일원으로, 윤나희와 함께 병원에 입원해 있음.'}]}
+2024-11-24 20:03:44,844 - novel_processor - INFO - Found character: 이혜연, details: {'full_name': '이혜연', 'aliases': [], 'initial_description': '이현의 여동생으로, 머리가 좋고 총명한 아이.', 'personality': {'traits': ['총명함', '독립적', '내성적', '신중함', '상냥함', '이해심', '긍정적'], 'values': ['가족에 대한 사랑', '자기 발전', '자유', '정직', '책임감', '가족의 중요성', '행복한 삶에 대한 희망'], 'motivations': ['대학 진학', '좋은 남편을 만나 행복한 삶', '경제적 안정', '자신의 캐릭터에 대한 애정', '게임에서의 성취', '가족과 함께 행복하게 살고 싶음'], 'fears': ['가족의 고통', '불행한 미래', '가족의 경제적 어려움', '자신의 캐릭터를 잃는 것', '사회적 고립', '가족이 다시 힘든 상황에 처하는 것', '경제적 어려움']}, 'background': {'origin': '가난한 가정에서 자람', 'occupation': '학생', 'skills': ['게임 플레이 능력', '전략적 사고', '문제 해결 능력']}, 'story_role': '이현의 여동생으로, 그의 보호와 지원을 받으며 성장하는 인물.', 'relationships': [{'relation': '형', 'name': '이현', 'description': '이혜연의 오빠로, 그녀를 지켜주고 싶어하는 인물.'}, {'relation': '할머니', 'name': '할머니', 'description': '이혜연과 이현의 보호자이자 가족의 일원.'}, {'relation': '형', 'name': '이현', 'description': '형과의 깊은 유대감을 가지고 있으며, 형의 성공을 함께 기뻐함.'}, {'relation': '할머니', 'name': '할머니', 'description': '가족의 일원으로서 할머니와의 관계가 깊고, 할머니의 행복을 중요시 여김.'}, {'relation': '형', 'name': '이현'}, {'relation': '할머니', 'name': '할머니'}]}
+2024-11-24 20:03:44,870 - novel_processor - INFO - Found character: 이현, details: {'full_name': '이현', 'aliases': ['위드'], 'initial_description': '가난한 환경에서 자란 청소년으로, 가족을 부양하기 위해 여러 가지 일을 하며 힘든 삶을 살아가는 캐릭터.', 'personality': {'traits': ['근면성실', '책임감 강함', '내성적', '독립적', '신중함', '소극적', '위협적', '강압적', '포악함', '교활함'], 'values': ['가족에 대한 사랑', '돈의 가치', '자기 발전', '자유', '경제적 안정', '개인적 성취', '돈', '권력', '힘'], 'motivations': ['여동생을 대학에 보내고 싶음', '할머니를 돌보고 싶음', '부자가 되고 싶음', '돈을 벌기 위해 캐릭터를 판매하려는 의도', '게임에서의 성취감', '자신의 능력을 증명하고 싶음', '게임에서의 성취', '빚을 회수하기 위해', '빚을 갚게 하려는 압박', '이익 추구'], 'fears': ['가족을 잃는 것', '가난한 삶이 계속되는 것', '경제적 어려움', '가족의 병원비 부담', '사회적 고립', '타인과의 관계에서 소외될까 두려움', '자신의 능력이 과소평가될까 두려움']}, 'background': {'origin': '어릴 때 부모님을 잃고 할머니와 여동생과 함께 살아가는 가난한 환경에서 성장함.', 'occupation': '불법적으로 여러 가지 일을 하며 생계를 유지함.', 'skills': ['일에 대한 높은 이해도', '게임 플레이 능력', '문제 해결 능력', '게임 플레이', '캐릭터 관리', '아이템 거래', '게임 디자인', '그래픽 디자인', '캐릭터 개발', '신체적 위협', '심리적 압박', '협박', '금융 지식']}, 'story_role': '가난한 환경에서 가족을 부양하기 위해 노력하는 주인공으로, 게임을 통해 현실의 고통을 잊으려 함.', 'relationships': [{'relation': '할머니', 'description': '이현의 할머니로, 최근에 건강이 나빠져 집에서 쉬고 있음.'}, {'relation': '여동생 이혜연', 'description': '이현의 여동생으로, 불량배들과 어울릴까 걱정하는 존재.'}, {'relation': '이현', 'type': '채권자'}, {'relation': '이현', 'type': '적대적', 'description': '이현에게 빚을 갚으라고 협박하는 대상'}, {'relation': '명동의 한진섭', 'type': '대장', 'description': '사내들 중 대장으로 보이며, 이현에게 경고를 하는 인물'}]}
+2024-11-24 20:03:44,892 - novel_processor - INFO - Found character: 한진섭, details: {'full_name': '한진섭', 'aliases': ['명동의 한진섭'], 'initial_description': '가난한 환경에서 힘겹게 살아가는 청년으로, 가족을 부양하기 위해 여러 가지 일을 하며 생계를 유지하고 있다.', 'personality': {'traits': ['근면성실', '책임감 강함', '내성적', '독립적', '신중함', '혼자 플레이를 선호', '무관심', '결단력', '집념', '의리', '포악함', '교활함', '자신감'], 'values': ['가족에 대한 사랑', '정직', '노력의 가치', '자유', '책임감', '독립성', '가족', '노력', '힘의 우월성', '법의 회피'], 'motivations': ['가족을 부양하고 여동생을 대학에 보내기 위해', '경제적 안정 추구', '경제적 안정', '가족을 위한 희생', '자신의 꿈 추구', '게임에서의 성취', '자신만의 세계 구축', '가족을 돕고 싶다', '행복한 삶', '돈을 벌기 위한 사채업', '권력 유지'], 'fears': ['가족을 잃는 것', '가난한 삶에서 벗어나지 못하는 것', '경제적 어려움', '가족의 건강 문제', '사회적 고립', '타인과의 관계에서의 소외', '인정받지 못하는 것', '가족의 고통', '재정적 불안정', '과거의 빚', '자신의 권력이 약해지는 것', '법의 처벌']}, 'background': {'origin': '어릴 때 부모님을 잃고 할머니와 여동생과 함께 살고 있음', 'occupation': '불법적으로 여러 가지 일을 하며 생계를 유지', 'skills': ['노동 능력', '게임 플레이 능력', '문제 해결 능력', '전략적 사고', '게임 플레이', '그래픽 디자인', '아이템 거래', '협박', '금융 지식', '심리 조작']}, 'story_role': '가난한 환경에서 가족을 위해 노력하는 주인공', 'relationships': [{'relation': '할머니', 'description': '가족의 일원으로, 할머니의 건강을 걱정하며 돌보려 함'}, {'relation': '여동생 이혜연', 'description': '여동생을 대학에 보내고 싶어하며, 그녀의 안전과 행복을 걱정함'}, {'relation': '할머니', 'description': '이현의 할머니로, 이현의 성공에 감격하며 함께 기뻐한다.'}, {'relation': '여동생 혜연', 'description': '이현의 여동생으로, 이현의 성공을 함께 기뻐하며 가족의 미래를 걱정한다.'}, {'relation': '부모', 'description': '이현의 부모는 이미 세상을 떠났으며, 그들의 빚이 이현에게 상속되었다.'}]}
+2024-11-24 20:03:55,029 - novel_processor - INFO - Extracted event from chapter 0: 다크 게이머가 처음으로 등장하여 게임 세계에서의 능력을 발휘하기 시작함.
+2024-11-24 20:03:55,048 - novel_processor - INFO - Extracted event from chapter 0: 다크 게이머가 강력한 적과의 전투에서 승리함.
+2024-11-24 20:03:55,081 - novel_processor - INFO - Extracted event from chapter 0: 다크 게이머가 동료들과 팀을 이루어 협력 플레이를 시작함.
+2024-11-24 20:03:55,099 - novel_processor - INFO - Extracted event from chapter 0: 다크 게이머가 게임 내에서 배신을 당함.
+2024-11-24 20:03:55,117 - novel_processor - INFO - Extracted event from chapter 0: 다크 게이머가 자신의 능력을 극대화하기 위해 새로운 기술을 배우기로 결심함.
+2024-11-24 20:04:02,858 - novel_processor - INFO - Extracted event from chapter 1: 이현이 가난한 삶을 살고 있으며, 불법적으로 일을 하며 생계를 유지하고 있다.
+2024-11-24 20:04:02,887 - novel_processor - INFO - Extracted event from chapter 1: 이현이 성인이 되어 합법적으로 일을 할 수 있게 되었다.
+2024-11-24 20:04:02,905 - novel_processor - INFO - Extracted event from chapter 1: 이현의 할머니가 허리를 다쳐 집에서 치료를 받고 있다.
+2024-11-24 20:04:02,924 - novel_processor - INFO - Extracted event from chapter 1: 이현이 여동생 이혜연의 안부를 걱정하고 있다.
+2024-11-24 20:04:02,942 - novel_processor - INFO - Extracted event from chapter 1: 이현이 컴퓨터를 켜고 게임을 하며 잠시 현실을 잊고 있다.
+2024-11-24 20:04:13,458 - novel_processor - INFO - Extracted event from chapter 2: 이현이 독특한 플레이 스타일로 하루 종일 사냥만 하며 레벨을 올림.
+2024-11-24 20:04:13,474 - novel_processor - INFO - Extracted event from chapter 2: 이현이 최고 레벨에 도달함.
+2024-11-24 20:04:13,490 - novel_processor - INFO - Extracted event from chapter 2: 이현이 드래곤을 포함한 최강의 몹들을 혼자서 처치함.
+2024-11-24 20:04:13,506 - novel_processor - INFO - Extracted event from chapter 2: 가상현실 시스템이 발전하여 '로열 로드'라는 게임이 등장함.
+2024-11-24 20:04:13,523 - novel_processor - INFO - Extracted event from chapter 2: 이현이 가상현실 기기를 구매할 여유가 없음.
+2024-11-24 20:04:24,004 - novel_processor - INFO - Extracted event from chapter 3: 이현이 캐릭터를 삭제하기로 결심하고 계정 매매를 고려함.
+2024-11-24 20:04:24,021 - novel_processor - INFO - Extracted event from chapter 3: 이현이 캐릭터를 거래하기 위해 경매를 시작함.
+2024-11-24 20:04:24,037 - novel_processor - INFO - Extracted event from chapter 3: 이현이 경매 시작 금액을 설정하고 경매 기한을 정함.
+2024-11-24 20:04:24,054 - novel_processor - INFO - Extracted event from chapter 3: 이현이 경매 글을 올리고 잠을 잠.
+2024-11-24 20:04:24,068 - novel_processor - INFO - Extracted event from chapter 3: 이현의 경매 글이 올라간 후 인터넷이 반응하기 시작함.
+2024-11-24 20:04:31,143 - novel_processor - INFO - Extracted event from chapter 4: 경매 글이 처음 게시되었고, 사람들은 이를 믿지 않았다.
+2024-11-24 20:04:31,160 - novel_processor - INFO - Extracted event from chapter 4: 경매 글에 첨부된 캐릭터 정보와 장비 사진이 공개되었다.
+2024-11-24 20:04:31,178 - novel_processor - INFO - Extracted event from chapter 4: 그래픽 디자이너들이 사진의 진위를 확인하기 위해 분석을 시작했다.
+2024-11-24 20:04:31,197 - novel_processor - INFO - Extracted event from chapter 4: 위드라는 캐릭터가 유명하다는 사실이 밝혀졌다.
+2024-11-24 20:04:31,222 - novel_processor - INFO - Extracted event from chapter 4: 경매 시작가가 5만 원에서 시작하여 폭등하기 시작했다.
+2024-11-24 20:04:37,544 - novel_processor - INFO - Extracted event from chapter 5: 경매가 폭등하기 시작함
+2024-11-24 20:04:37,559 - novel_processor - INFO - Extracted event from chapter 5: 직장인들이 경매에 참여하기 시작함
+2024-11-24 20:04:37,578 - novel_processor - INFO - Extracted event from chapter 5: 경매 가격이 1억을 넘어섬
+2024-11-24 20:04:37,595 - novel_processor - INFO - Extracted event from chapter 5: 댓글 놀이와 경매 연장
+2024-11-24 20:04:37,613 - novel_processor - INFO - Extracted event from chapter 5: 회사의 적극적인 경매 참여
+2024-11-24 20:04:43,523 - novel_processor - INFO - Extracted event from chapter 6: CTS미디어가 경매에서 이현의 캐릭터를 낙찰받음
+2024-11-24 20:04:43,542 - novel_processor - INFO - Extracted event from chapter 6: 이현이 전화로 경매 낙찰 소식을 듣고 놀람
+2024-11-24 20:04:43,561 - novel_processor - INFO - Extracted event from chapter 6: 이현이 경매 금액이 30억 9천만 원임을 확인함
+2024-11-24 20:04:43,580 - novel_processor - INFO - Extracted event from chapter 6: 이현이 할머니에게 자신의 성공을 알림
+2024-11-24 20:04:52,889 - novel_processor - INFO - Extracted event from chapter 7: 이현이 할머니에게 자신이 번 돈을 보여주며 기뻐하는 장면
+2024-11-24 20:04:52,908 - novel_processor - INFO - Extracted event from chapter 7: 이현이 게임 계정을 팔아 번 돈에 대해 설명하는 장면
+2024-11-24 20:04:52,927 - novel_processor - INFO - Extracted event from chapter 7: 이현과 할머니가 새 집을 구하고 병원 치료를 받기로 결정하는 장면
+2024-11-24 20:04:52,946 - novel_processor - INFO - Extracted event from chapter 7: 검은 정장 차림의 사람들이 병원으로 찾아오는 장면
+2024-11-24 20:04:59,778 - novel_processor - INFO - Extracted event from chapter 8: 검은 정장 차림의 사내들이 이현에게 빚을 갚으라고 압박함.
+2024-11-24 20:04:59,797 - novel_processor - INFO - Extracted event from chapter 8: 이현이 부모님이 남긴 1억의 빚을 상속받게 된 경위 설명.
+2024-11-24 20:04:59,813 - novel_processor - INFO - Extracted event from chapter 8: 사채업자가 이현에게 이자 계산을 설명함.
+2024-11-24 20:04:59,831 - novel_processor - INFO - Extracted event from chapter 8: 이현이 파산을 고려하지만 돈이 없어 실행하지 못함.
+2024-11-24 20:04:59,848 - novel_processor - INFO - Extracted event from chapter 8: 사채업자들이 이현에게 다시 찾아오겠다고 경고함.
+2024-11-24 20:05:04,971 - novel_processor - INFO - Extracted event from chapter 9: 이현이 사채업자들에게 돈을 빌리고 갚지 못해 협박을 받는 사건
+2024-11-24 20:05:04,989 - novel_processor - INFO - Extracted event from chapter 9: 이현이 사채업자들에게 복수하겠다고 다짐하는 사건
+2024-11-24 20:05:05,008 - novel_processor - INFO - Extracted event from chapter 9: 이현이 사채업자들에게서 받은 돈으로 무술을 배우기로 결심하는 사건
+2024-11-24 20:05:11,419 - novel_processor - INFO - Extracted event from chapter 10: 이현이 무술을 익히고 가상현실 게임에 대해 공부하기 시작함.
+2024-11-24 20:05:11,439 - novel_processor - INFO - Extracted event from chapter 10: 이현이 1년 동안 무술과 게임 시스템을 철저히 분석함.
+2024-11-24 20:05:11,461 - novel_processor - INFO - Extracted event from chapter 10: 로열 로드가 전 세계 게임 시장에서 75% 이상의 점유율을 기록함.
+2024-11-24 20:05:11,477 - novel_processor - INFO - Extracted event from chapter 10: 이현이 로열 로드에 접속할 수 있는 캡슐을 구매함.
+2024-11-24 20:05:19,407 - novel_processor - INFO - Extracted event from chapter 11: 이현이 로열 로드에 접속하기로 결정함.
+2024-11-24 20:05:19,426 - novel_processor - INFO - Extracted event from chapter 11: 이현이 캐릭터 이름을 '위드'로 정함.
+2024-11-24 20:05:19,444 - novel_processor - INFO - Extracted event from chapter 11: 이현이 캐릭터 성별을 남자로 선택함.
+2024-11-24 20:05:19,464 - novel_processor - INFO - Extracted event from chapter 11: 이현이 종족을 인간으로 선택함.
+2024-11-24 20:05:19,481 - novel_processor - INFO - Extracted event from chapter 11: 이현이 외모를 현재 모습으로 유지하기로 결정함.
+2024-11-24 20:05:19,500 - novel_processor - INFO - Extracted event from chapter 11: 이현이 로자임 왕국과 세라보그 성을 선택함.
+2024-11-24 20:05:19,518 - novel_processor - INFO - Extracted event from chapter 11: 이현이 게임을 시작하기로 최종 결정함.
+2024-11-24 20:05:31,005 - novel_processor - INFO - Extracted event from chapter 12: 위드가 로자임 왕국의 세라보그 성에 나타남.
+2024-11-24 20:05:31,024 - novel_processor - INFO - Extracted event from chapter 12: 위드가 가상현실의 현실감에 놀라며 주변을 둘러봄.
+2024-11-24 20:05:31,041 - novel_processor - INFO - Extracted event from chapter 12: 위드가 체조를 시작하며 게임에 적응하려고 노력함.
+2024-11-24 20:05:31,060 - novel_processor - INFO - Extracted event from chapter 12: 주변 유저들이 위드를 관찰하며 반응함.
+2024-11-24 20:05:31,083 - novel_processor - INFO - Extracted event from chapter 12: 위드가 수련관으로 향함.
+2024-11-24 20:05:31,101 - novel_processor - INFO - Extracted event from chapter 12: 교관이 위드에게 검술 훈련을 안내함.
+2024-11-24 20:05:33,854 - novel_processor - INFO - Extracted event from chapter 13: 위드가 검술 훈련을 시작하다.
+2024-11-24 20:05:33,869 - novel_processor - INFO - Extracted event from chapter 13: 로열 로드의 레벨 시스템 설명.
+2024-11-24 20:05:37,943 - novel_processor - INFO - Extracted event from chapter 14: 위드가 허수아비를 6시간 동안 두들기며 힘을 키우고 있다.
+2024-11-24 20:05:37,962 - novel_processor - INFO - Extracted event from chapter 14: 위드가 목검을 쥔 손에 힘이 들어가는 것을 느낀다.
+2024-11-24 20:05:37,981 - novel_processor - INFO - Extracted event from chapter 14: 위드의 캐릭터 스탯이 변화한다.
+2024-11-24 20:05:46,264 - novel_processor - INFO - Extracted event from chapter 15: 위드가 허수아비를 8시간 동안 훈련하며 능력치를 올리기 시작함.
+2024-11-24 20:05:46,282 - novel_processor - INFO - Extracted event from chapter 15: 관중들이 위드의 훈련을 지켜보며 의문을 가짐.
+2024-11-24 20:05:46,301 - novel_processor - INFO - Extracted event from chapter 15: 플루토가 허수아비를 때리는 것이 능력치 성장에 도움이 된다고 설명함.
+2024-11-24 20:05:46,318 - novel_processor - INFO - Extracted event from chapter 15: 여자 마법사가 플루토의 의견에 반대하며 허수아비 훈련의 비효율성을 지적함.
+2024-11-24 20:05:46,335 - novel_processor - INFO - Extracted event from chapter 15: 플루토가 허수아비 훈련의 장기적인 이점을 강조함.
+2024-11-24 20:05:51,182 - novel_processor - INFO - Extracted event from chapter 16: 위드는 힘을 올리기 위해 허수아비를 때리는 훈련을 하고 있다.
+2024-11-24 20:05:51,199 - novel_processor - INFO - Extracted event from chapter 16: 주변 사람들은 허수아비 때리기가 지루하고 힘들다고 이야기한다.
+2024-11-24 20:05:51,217 - novel_processor - INFO - Extracted event from chapter 16: 위드는 허수아비 때리기를 통해 더 강한 몬스터를 잡고 돈을 벌기를 원한다.
+2024-11-24 20:05:58,016 - novel_processor - INFO - Extracted event from chapter 17: 위드는 로열 로드에 매일 접속하며 체력을 키우기 위해 노력하고 있다.
+2024-11-24 20:05:58,033 - novel_processor - INFO - Extracted event from chapter 17: 위드는 80시간 동안 허수아비를 때리며 스탯을 올리고 있다.
+2024-11-24 20:05:58,055 - novel_processor - INFO - Extracted event from chapter 17: 위드는 스탯 투지와 지구력을 생성하여 전투 능력을 향상시키고 있다.
+2024-11-24 20:05:58,072 - novel_processor - INFO - Extracted event from chapter 17: 위드는 검술의 숙련도가 상승하고 검의 파괴력과 공격 속도가 증가했다.
+2024-11-24 20:06:06,100 - novel_processor - INFO - Extracted event from chapter 18: 위드가 목표치를 채우지 못하고 괴로워함.
+2024-11-24 20:06:06,119 - novel_processor - INFO - Extracted event from chapter 18: 위드가 교관에게 다가가 식사를 함께 하기로 함.
+2024-11-24 20:06:06,138 - novel_processor - INFO - Extracted event from chapter 18: 교관이 위드에게 조각술에 대해 질문함.
+2024-11-24 20:06:06,155 - novel_processor - INFO - Extracted event from chapter 18: 위드가 조각술에 대해 부정적인 의견을 표현함.
+2024-11-24 20:06:06,171 - novel_processor - INFO - Extracted event from chapter 18: 교관이 조각술과 관련된 소문을 언급함.
+2024-11-24 20:06:09,891 - novel_processor - INFO - Extracted event from chapter 19: 조각술을 마스터한 자가 달빛을 조각했다는 소문이 퍼짐.
+2024-11-24 20:06:09,908 - novel_processor - INFO - Extracted event from chapter 19: 위드가 조각술에 대한 의문을 제기하고, 친구에게 알아봐 줄 것을 부탁함.
+2024-11-24 20:06:15,009 - novel_processor - INFO - Extracted event from chapter 20: 위드가 로자임 왕국의 왕실에서 조각술에 대한 퀘스트를 수락함.
+2024-11-24 20:06:15,025 - novel_processor - INFO - Extracted event from chapter 20: 위드가 조각술에 대한 소문을 조사하기 위해 성내의 조각 상점으로 가기로 함.
+2024-11-24 20:06:15,062 - novel_processor - INFO - Extracted event from chapter 20: 교관이 위드에게 퀘스트 착수금으로 2실버를 지급함.
+2024-11-24 20:06:19,399 - novel_processor - INFO - Extracted event from chapter 21: 위드가 조각 상점에 방문하여 조각품을 감상함.
+2024-11-24 20:06:19,422 - novel_processor - INFO - Extracted event from chapter 21: 위드가 조각 상점에서 조각품에 대한 질문을 하려 하지만 가게 주인이 바쁘다고 거절함.
+2024-11-24 20:06:19,440 - novel_processor - INFO - Extracted event from chapter 21: 위드가 조각품을 감상하며 가게 주인과 대화를 나누게 됨.
+2024-11-24 20:06:42,678 - novel_processor - INFO - Extracted event from chapter 22: 위드가 조각술의 시장성과 수익성에 대해 고민함.
+2024-11-24 20:06:42,700 - novel_processor - INFO - Extracted event from chapter 22: 위드가 왕실에서의 달빛 조각에 대한 소문을 조사함.
+2024-11-24 20:06:47,499 - novel_processor - INFO - Extracted event from chapter 23: 왕실에 나타난 의문의 조각사 퀘스트 완료
+2024-11-24 20:06:47,518 - novel_processor - INFO - Extracted event from chapter 23: 위드가 조각사의 과거와 이베인 왕비와의 관계를 추적하기로 결정
+2024-11-24 20:06:47,543 - novel_processor - INFO - Extracted event from chapter 23: 위드가 퀘스트를 수락
+2024-11-24 20:06:55,767 - novel_processor - INFO - Extracted event from chapter 24: 위드가 음유시인을 찾아 주점에 가서 대화를 시도함.
+2024-11-24 20:06:55,783 - novel_processor - INFO - Extracted event from chapter 24: 위드가 음유시인에게 로자임 왕국의 왕실에서 50년 전에 있었던 일을 묻는 장면.
+2024-11-24 20:06:55,800 - novel_processor - INFO - Extracted event from chapter 24: 음유시인이 위드에게 돈을 요구하며 대화가 중단될 위기에 처함.
+2024-11-24 20:06:55,817 - novel_processor - INFO - Extracted event from chapter 24: 음유시인이 이베인 왕비와 조각사 자하브의 과거 이야기를 시작함.
+2024-11-24 20:06:55,833 - novel_processor - INFO - Extracted event from chapter 24: 위드가 음유시인에게서 시녀의 집에 대한 정보를 얻음.
+2024-11-24 20:06:55,851 - novel_processor - INFO - Extracted event from chapter 24: 위드가 시녀를 찾아가 조각사와 왕비의 이야기를 나누는 장면.
+2024-11-24 20:07:02,794 - novel_processor - INFO - Extracted event from chapter 25: 위드가 시녀를 찾아가 이베인 왕비와 자하브의 과거 이야기를 듣는다.
+2024-11-24 20:07:02,810 - novel_processor - INFO - Extracted event from chapter 25: 자하브가 왕비를 미워하게 된 이유를 설명한다.
+2024-11-24 20:07:02,826 - novel_processor - INFO - Extracted event from chapter 25: 브렌트 왕국의 암살자들이 왕비와 국왕을 습격한다.
+2024-11-24 20:07:02,847 - novel_processor - INFO - Extracted event from chapter 25: 자하브가 싸움 중에 나타나 왕비를 구하기 위해 싸운다.
+2024-11-24 20:07:02,864 - novel_processor - INFO - Extracted event from chapter 25: 자하브가 달빛을 조각하는 장면을 보여주며 왕비를 감동시킨다.
+2024-11-24 20:07:11,532 - novel_processor - INFO - Extracted event from chapter 26: 소년이 소녀를 위해 나무 조각을 완성하다.
+2024-11-24 20:07:11,554 - novel_processor - INFO - Extracted event from chapter 26: 소녀가 왕비가 되지만 기쁘지 않다.
+2024-11-24 20:07:11,574 - novel_processor - INFO - Extracted event from chapter 26: 왕비가 자하브의 약속을 잊었다고 슬퍼하다.
+2024-11-24 20:07:11,593 - novel_processor - INFO - Extracted event from chapter 26: 암살자들이 왕궁을 습격하다.
+2024-11-24 20:07:11,612 - novel_processor - INFO - Extracted event from chapter 26: 자하브가 달빛으로 암살자들을 퇴치하다.
+2024-11-24 20:07:11,628 - novel_processor - INFO - Extracted event from chapter 26: 위드가 숨겨진 직업 '달빛 조각사'로 전직 제안을 거부하다.
+2024-11-24 20:07:11,647 - novel_processor - INFO - Extracted event from chapter 26: 위드가 늙은 시녀로부터 자하브의 조각칼과 유물을 받다.
+2024-11-24 20:07:17,324 - novel_processor - INFO - Extracted event from chapter 27: 위드가 자하브의 조각칼과 유물을 습득함.
+2024-11-24 20:07:17,345 - novel_processor - INFO - Extracted event from chapter 27: 위드가 A급 퀘스트를 수락함.
+2024-11-24 20:07:17,367 - novel_processor - INFO - Extracted event from chapter 27: 위드가 조각 상점으로 돌아와 보상을 받음.
+2024-11-24 20:07:27,471 - novel_processor - INFO - Extracted event from chapter 28: 인간, 엘프, 드워프, 오크가 함께 살던 시절
+2024-11-24 20:07:27,487 - novel_processor - INFO - Extracted event from chapter 28: 오크들이 유능한 사냥꾼으로 성장
+2024-11-24 20:07:27,504 - novel_processor - INFO - Extracted event from chapter 28: 인간들이 농경 기술을 개발
+2024-11-24 20:07:27,518 - novel_processor - INFO - Extracted event from chapter 28: 엘프들이 숲으로 들어가 정령술을 익힘
+2024-11-24 20:07:27,535 - novel_processor - INFO - Extracted event from chapter 28: 드워프들이 기술을 발전시킴
+2024-11-24 20:07:27,551 - novel_processor - INFO - Extracted event from chapter 28: 인간과 오크 간의 식량을 놓고 싸움 발생
+2024-11-24 20:07:27,566 - novel_processor - INFO - Extracted event from chapter 28: 드워프와 오크 간의 분쟁 발생
+2024-11-24 20:07:37,453 - novel_processor - INFO - Extracted event from chapter 29: 세라보그 성의 명물이 탄생했다는 소식이 퍼짐
+2024-11-24 20:07:37,468 - novel_processor - INFO - Extracted event from chapter 29: 위드가 허수아비를 4주 동안 훈련함
+2024-11-24 20:07:37,483 - novel_processor - INFO - Extracted event from chapter 29: 유저들이 위드에게 호의를 베풀며 접근함
+2024-11-24 20:07:37,498 - novel_processor - INFO - Extracted event from chapter 29: 고레벨 유저들이 위드에게 접근함
+2024-11-24 20:07:37,513 - novel_processor - INFO - Extracted event from chapter 29: 왕국의 발전과 전쟁에 대한 설명
+2024-11-24 20:07:37,532 - novel_processor - INFO - Extracted event from chapter 29: 위드가 모든 제안을 거절함
+2024-11-24 20:07:37,549 - novel_processor - INFO - Extracted event from chapter 29: 위드의 능력치 상승
+2024-11-24 20:07:43,147 - novel_processor - INFO - Extracted event from chapter 30: 위드가 수련장에서 능력치를 최대한 성장시킴
+2024-11-24 20:07:43,163 - novel_processor - INFO - Extracted event from chapter 30: 교관이 위드에게 기초 수련을 마친 수련생에게 주는 검을 건네줌
+2024-11-24 20:07:43,179 - novel_processor - INFO - Extracted event from chapter 30: 교관이 위드에게 기초 수련을 마친 사람 수에 대해 설명함
+2024-11-24 20:07:43,197 - novel_processor - INFO - Extracted event from chapter 30: 교관이 위드에게 리트바르 동굴 정벌대에 참여할 것을 제안함
+2024-11-24 20:07:49,898 - novel_processor - INFO - Extracted event from chapter 31: 로자임 왕국에서 몬스터 소탕을 위한 퀘스트가 발표됨.
+2024-11-24 20:07:49,916 - novel_processor - INFO - Extracted event from chapter 31: 위드가 퀘스트를 거절함.
+2024-11-24 20:07:49,933 - novel_processor - INFO - Extracted event from chapter 31: 교관이 위드에게 직업 선택에 대해 질문함.
+2024-11-24 20:07:49,948 - novel_processor - INFO - Extracted event from chapter 31: 교관이 위드에게 현자 로드리아스에 대해 언급함.
+2024-11-24 20:07:49,964 - novel_processor - INFO - Extracted event from chapter 31: 교관이 위드에게 이베인 왕비의 손수건을 전달함.
+2024-11-24 20:07:54,648 - novel_processor - INFO - Extracted event from chapter 32: 이베인 왕비의 손수건을 획득함.
+2024-11-24 20:07:54,663 - novel_processor - INFO - Extracted event from chapter 32: 파이톤과의 만남.
+2024-11-24 20:07:54,680 - novel_processor - INFO - Extracted event from chapter 32: 위드와 파이톤의 대화.
+2024-11-24 20:07:54,698 - novel_processor - INFO - Extracted event from chapter 32: 위드가 현자 로드리아스를 찾아감.
+2024-11-24 20:08:05,052 - novel_processor - INFO - Extracted event from chapter 33: 위드가 로드리아스의 저택에 들어가려 하지만 병사들에게 저지당함.
+2024-11-24 20:08:05,069 - novel_processor - INFO - Extracted event from chapter 33: 위드가 현자를 만나기 위해 기다리기로 결정함.
+2024-11-24 20:08:05,085 - novel_processor - INFO - Extracted event from chapter 33: 밤이 깊어지고 로드리아스의 저택에 불이 꺼짐.
+2024-11-24 20:08:05,102 - novel_processor - INFO - Extracted event from chapter 33: 위드가 세라보그 성의 문 밖으로 나가 사냥을 시작함.
+2024-11-24 20:08:05,118 - novel_processor - INFO - Extracted event from chapter 33: 위드가 교관에게 받은 철검을 확인함.
+2024-11-24 20:08:08,167 - novel_processor - INFO - Extracted event from chapter 34: 위드가 교관에게서 받은 무기를 사용해보며 편안함을 느끼고, 자하브의 조각칼에 대한 정보를 알게 된다.
+2024-11-24 20:08:35,775 - novel_processor - INFO - Extracted event from chapter 35: 위드가 철검을 선택하고 사냥을 나가려는 순간, 여자가 다가와 함께 사냥하자고 제안함.
+2024-11-24 20:08:35,796 - novel_processor - INFO - Extracted event from chapter 35: 위드가 자신의 레벨과 장비를 소개하자, 파티원들이 놀라움과 걱정을 표함.
+2024-11-24 20:08:35,813 - novel_processor - INFO - Extracted event from chapter 35: 위드가 가상현실에서의 첫 사냥임을 밝히자, 파티원들이 그에 대한 걱정을 더욱 키움.
+2024-11-24 20:08:41,044 - novel_processor - INFO - Extracted event from chapter 36: 위드가 혼자서 몬스터를 상대하기 어려움을 느끼고 파티에 합류하기로 결정함.
+2024-11-24 20:08:41,065 - novel_processor - INFO - Extracted event from chapter 36: 페일이 위드에게 안전하게 사냥을 관찰하도록 제안함.
+2024-11-24 20:08:41,087 - novel_processor - INFO - Extracted event from chapter 36: 위드가 파티에 정식으로 가입하고 사냥을 시작함.
+2024-11-24 20:08:47,392 - novel_processor - INFO - Extracted event from chapter 37: 안현도가 도장에서 제자들을 가르치고 있지만 만족하지 못함.
+2024-11-24 20:08:47,412 - novel_processor - INFO - Extracted event from chapter 37: 이현이 안현도의 도장에 찾아옴.
+2024-11-24 20:08:47,435 - novel_processor - INFO - Extracted event from chapter 37: 이현이 검술을 배우기 위해 노력함.
+2024-11-24 20:08:47,458 - novel_processor - INFO - Extracted event from chapter 37: 이현이 도장에 나오지 않게 됨.
+2024-11-24 20:08:54,564 - novel_processor - INFO - Extracted event from chapter 38: 위드가 전투에 참여하기로 결심하고 여우를 공격함.
+2024-11-24 20:08:54,587 - novel_processor - INFO - Extracted event from chapter 38: 수르카가 여우를 공격하며 팀원들에게 지시함.
+2024-11-24 20:08:54,603 - novel_processor - INFO - Extracted event from chapter 38: 이리엔이 수르카의 체력을 회복시킴.
+2024-11-24 20:08:54,622 - novel_processor - INFO - Extracted event from chapter 38: 위드가 여우를 향해 공격을 감행함.
+2024-11-24 20:08:59,474 - novel_processor - INFO - Extracted event from chapter 39: 위드가 크리티컬 공격을 성공시켜 여우를 처치하고 아이템을 얻음.
+2024-11-24 20:08:59,491 - novel_processor - INFO - Extracted event from chapter 39: 위드의 공격력이 비정상적으로 강해짐.
+2024-11-24 20:08:59,508 - novel_processor - INFO - Extracted event from chapter 39: 위드의 스탯이 비정상적으로 높아짐.
+2024-11-24 20:09:04,694 - novel_processor - INFO - Extracted event from chapter 40: 위드가 검술을 사용하여 몹들을 처치하는 장면
+2024-11-24 20:09:04,714 - novel_processor - INFO - Extracted event from chapter 40: 페일과 사람들은 위드의 공격력을 아이템 덕분으로 오해함
+2024-11-24 20:09:04,733 - novel_processor - INFO - Extracted event from chapter 40: 수르카가 몹들을 끌어오는 장면
+2024-11-24 20:09:11,982 - novel_processor - INFO - Extracted event from chapter 41: 위드가 여우를 공격하며 크리티컬 히트를 기록함.
+2024-11-24 20:09:12,001 - novel_processor - INFO - Extracted event from chapter 41: 이리엔이 위드를 치료함.
+2024-11-24 20:09:12,019 - novel_processor - INFO - Extracted event from chapter 41: 위드가 여우의 공격을 대신 받기로 결정함.
+2024-11-24 20:09:12,036 - novel_processor - INFO - Extracted event from chapter 41: 페일이 여우를 화살로 끌어들임.
+2024-11-24 20:09:12,051 - novel_processor - INFO - Extracted event from chapter 41: 위드의 레벨이 상승함.
+2024-11-24 20:09:19,850 - novel_processor - INFO - Extracted event from chapter 42: 위드가 레벨 4에 도달하고 민첩성에 스탯을 투자함.
+2024-11-24 20:09:19,867 - novel_processor - INFO - Extracted event from chapter 42: 수르카가 여우를 건드려 늑대를 불러옴.
+2024-11-24 20:09:19,880 - novel_processor - INFO - Extracted event from chapter 42: 이리엔이 수르카를 치료하기 위해 남아 있음.
+2024-11-24 20:09:19,900 - novel_processor - INFO - Extracted event from chapter 42: 위드가 늑대를 막기 위해 나섬.
+2024-11-24 20:09:19,920 - novel_processor - INFO - Extracted event from chapter 42: 페일이 늑대를 향해 화살을 쏘지만 효과가 없음.
+2024-11-24 20:09:29,489 - novel_processor - INFO - Extracted event from chapter 43: 이리엔이 치료를 전담하고 있지만 마나가 부족해 위드가 늑대와 싸우게 된다.
+2024-11-24 20:09:29,504 - novel_processor - INFO - Extracted event from chapter 43: 위드가 늑대의 공격을 받으며 생명력이 급격히 줄어든다.
+2024-11-24 20:09:29,520 - novel_processor - INFO - Extracted event from chapter 43: 수르카와 페일이 위드의 결단에 감동하며 도망칠 결심을 한다.
+2024-11-24 20:09:29,538 - novel_processor - INFO - Extracted event from chapter 43: 위드가 늑대에게 죽을 경우 아이템과 레벨이 다운될 위험이 있다.
+2024-11-24 20:09:34,386 - novel_processor - INFO - Extracted event from chapter 44: 페이로가 수르카와 함께 늑대의 공격을 막으려 했지만, 늑대는 위드를 주요 목표로 삼았다.
+2024-11-24 20:09:34,405 - novel_processor - INFO - Extracted event from chapter 44: 늑대가 위드를 죽이기 위해 마지막 일격을 가하려 했으나, 페이로의 공격이 늑대를 다치게 했다.
+2024-11-24 20:09:39,716 - novel_processor - INFO - Extracted event from chapter 45: 레벨이 상승하여 4에서 5로 증가함.
+2024-11-24 20:09:39,733 - novel_processor - INFO - Extracted event from chapter 45: 검술 스킬이 상승하여 공격력이 150%로 강화됨.
+2024-11-24 20:09:39,750 - novel_processor - INFO - Extracted event from chapter 45: 조각 검술 스킬을 익힘.
+2024-11-24 20:09:39,772 - novel_processor - INFO - Extracted event from chapter 45: 조각술과 관련된 다양한 스킬을 익힘.
+2024-11-24 20:09:49,032 - novel_processor - INFO - Extracted event from chapter 46: 위드가 늑대와의 전투에서 중상을 입고 동료들에게 도움을 받음.
+2024-11-24 20:09:49,049 - novel_processor - INFO - Extracted event from chapter 46: 위드와 동료들이 사냥을 통해 레벨을 올림.
+2024-11-24 20:09:49,069 - novel_processor - INFO - Extracted event from chapter 46: 위드가 늑대들을 사냥하며 강력한 전투 능력을 발휘함.
+2024-11-24 20:09:49,090 - novel_processor - INFO - Extracted event from chapter 46: 위드가 동료들과 작별하고 혼자서 사냥을 계속함.
+2024-11-24 20:09:49,108 - novel_processor - INFO - Extracted event from chapter 46: 위드가 늑대들과의 전투에서 승리하고 현자 로드리아스의 저택으로 향함.
+2024-11-24 22:44:59,481 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 22:48:37,477 - novel_processor - INFO - Found character: 아슈르, details: {'full_name': '아슈르', 'aliases': ['백작님', '아슈르 백작'], 'initial_description': '대마법사로, 높은 레벨과 강력한 능력을 가진 캐릭터.', 'personality': {'traits': ['교활함', '자신감', '비웃음', '위협적', '다급함', '무력감', '허무함', '슬픔', '원망', '신비로운', '도전적인', '지혜로운', '강력한'], 'values': ['신의', '계약의 중요성', '시간의 소중함', '노력의 결과', '모험', '성장', '탐구', '권력', '지식', '비밀'], 'motivations': ['권력 유지', '자신의 이익 추구', '주인공의 아이템을 빼앗으려는 의도', '게임 내에서의 성취', '정보 탐색', '플레이어에게 도전 과제를 제공', '게임 세계의 균형 유지', '유저들에게 도전 과제를 제공', '게임의 밸런스를 유지'], 'fears': ['자신의 권력이 위협받는 것', '실패', '무의미한 노력', '플레이어의 실패로 인한 시스템 붕괴', '자신의 존재 의의 상실', '자신의 비밀이 드러나는 것', '게임의 밸런스 붕괴']}, 'background': {'origin': '귀족 가문 출신', 'occupation': '대마법사', 'skills': ['마법', '전투 기술', '계약 체결 능력', '퀘스트 수행', '정보 검색', '퀘스트 설계', '게임 메커니즘 이해', '플레이어 행동 분석', '고난이도 퀘스트 설계', '유저의 능력 평가']}, 'story_role': '주요 antagonist로, 주인공에게 퀘스트를 강요하고 갈등을 유발하는 인물.', 'relationships': [{'relation': '주인공', 'type': '적대적', 'description': '주인공에게 퀘스트를 강요하고, 그로 인해 갈등을 일으킴.'}, {'relation': '기사들', 'type': '호위', 'description': '아슈르를 보호하는 역할을 하며, 그의 명령에 따름.'}, {'character': '그리드', 'relationship_type': '퀘스트 수혜자', 'description': '그리드는 아슈르의 퀘스트를 통해 성장하고, 아슈르의 의도를 이해하게 된다.'}, {'character': '그리드', 'relationship_type': '퀘스트 수여자와 수혜자', 'description': '그리드는 아슈르의 퀘스트를 통해 특별한 능력을 얻게 된다.'}]}
+2024-11-24 22:48:37,613 - novel_processor - INFO - Found character: 요한, details: {'full_name': '요한', 'aliases': [], 'initial_description': '파트리안에서 귀족 살해자로서 명성을 쌓아온 캐릭터.', 'personality': {'traits': ['끈기', '분노', '결단력', '절망적', '혼란스러운', '불만족스러운', '의욕 상실', '무력감', '허무함', '슬픔', '원망', '열정적', '근면성실', '자부심이 강함', '결단력 있음', '담력', '호기심'], 'values': ['정의', '복수', '자존심', '성장', '강함', '자아 실현', '시간의 소중함', '노력의 결과', '사회적 기여', '혁신', '자유', '모험'], 'motivations': ['레벨 상승', '복수', '명성 유지', '전사로서의 성장', '군대의 장군이 되는 꿈', '아이템을 지키고 싶음', '게임 내에서의 성취', '정보 탐색', '20억 인구의 욕구 충족', 'Satisfy의 성공', '개발자로서의 자부심', '생존', '능력 향상'], 'fears': ['귀족들의 멸시', '레벨 하락', '무능력', '레벨이 하락하는 것', '전사로서의 능력을 잃는 것', '노가다 같은 힘든 작업', '실패', '무의미한 노력', '자신의 능력 부족', '타인의 기대에 미치지 못하는 것', '고통', '무력함']}, 'background': {'origin': '파트리안', 'occupation': '모험가', 'skills': ['퀘스트 해결', '전투 기술', '전략적 사고', '대장장이 장인의 기술', '대장장이 장인의 감정', '대장장이 장인의 인내심', '대장장이 장인의 분해', '대장장이 장인의 수리', '전설적 대장장이의 기술', '전설적 대장장이의 감별', '전설적 대장장이의 감정', '전설적 대장장이의 인내심', '전설적 대장장이의 수리', '전설적 대장장이의 분해', '전설적 대장장이의 숨결', '전설적 대장장이의 축복', '전설적 대장장이의 창조', '퀘스트 수행', '정보 검색', '프로젝트 관리', '소프트웨어 개발', '리더십', '문제 해결 능력', '아이템 제작 시 추가 옵션 확률 상승', '아이템 강화 확률 상승', '모든 장비 아이템 착용 가능']}, 'story_role': '주인공으로서 귀족과의 갈등을 겪으며 성장하는 캐릭터.', 'relationships': [{'name': '아슈르 백작', 'relationship_type': '적대적', 'description': '요한에게 퀘스트를 강제로 떠넘긴 귀족.'}]}
+2024-11-24 22:48:37,673 - novel_processor - INFO - Found character: 임철호, details: {'full_name': '임철호', 'aliases': ['Satisfy의 아버지', '가상현실 시스템 구축의 발안자', 'S.A그룹 총수'], 'initial_description': '귀족 살해자로서 파트리안에서 퀘스트를 수행하며 명성을 쌓아온 캐릭터.', 'personality': {'traits': ['끈기', '분노', '결단력', '의지력', '절망감', '자부심이 강함', '일에 대한 헌신', '리더십', '창의적 사고', '결단력 있는', '열정적인', '자부심이 강한', '분석적', '신중', '이해심이 깊음'], 'values': ['정의', '복수', '자존심', '성장', '명예', '자기 실현', '혁신', '사회적 기여', '자기 발전', '인류의 욕구 충족', '노력', '성취', '게임의 공정성', '유저 경험', '팀워크'], 'motivations': ['레벨 상승', '복수', '명성 유지', '전사로서의 성장', '군대의 장군이 되는 꿈', '아이템을 지키고 싶음', '20억 인구의 마음을 사로잡고 욕구를 충족시키는 것', '가상현실 시스템의 발전', 'Satisfy의 성공', '20억 인구의 욕구를 충족시키고자 하는 열망', 'Satisfy의 성공을 통한 자아 실현', '게임의 밸런스를 유지하고 유저들이 공정하게 플레이할 수 있도록 돕고자 함', '개발팀의 성과를 높이고자 함'], 'fears': ['귀족들의 멸시', '레벨 하락', '무능력', '레벨이 하락하는 것', '전사로서의 능력을 잃는 것', '노가다와 같은 힘든 작업', '자신의 노력이 무시당하는 것', 'Satisfy의 실패', '사회적 책임을 다하지 못하는 것', '실패', '자신의 노력에 대한 무관심', '게임의 밸런스 붕괴', '유저들의 불만']}, 'background': {'origin': '파트리안', 'occupation': '모험가', 'skills': ['퀘스트 해결', '전투 기술', '상인과의 거래', '대장장이 장인의 기술', '대장장이 장인의 감정', '대장장이 장인의 인내심', '대장장이 장인의 분해', '대장장이 장인의 수리', '가상현실 기술 개발', '프로젝트 관리', '리더십', '창의적 문제 해결', '게임 개발', '경영', '문제 해결 능력', '게임 시스템 설계', '유저 경험 분석']}, 'story_role': '주인공으로서 귀족과의 갈등을 겪으며 성장하는 캐릭터.', 'relationships': [{'name': '아슈르 백작', 'relationship_type': '적대적', 'description': '퀘스트를 강제로 떠넘긴 귀족으로, 임철호의 복수 대상.'}, {'name': '최나희', 'relationship': '운영팀장', 'description': '임철호의 오른팔로, Satisfy 운영팀을 이끌며 임철호와 함께 일하는 동료.'}]}
+2024-11-24 22:48:37,738 - novel_processor - INFO - Found character: 최나희, details: {'full_name': '최나희', 'aliases': [], 'initial_description': '귀족 살해자로서 모든 나라의 귀족들에게 멸시와 억압을 당하며, 파트리안에서 퀘스트를 해결해 높은 명성을 쌓아온 캐릭터.', 'personality': {'traits': ['끈기', '분노', '결단력', '의지력', '절망감', '무력감', '허무함', '슬픔', '원망', '열받음', '냉철함', '객관성', '비판적 사고', '신중함', '분석적 사고', '걱정이 많은 성격'], 'values': ['정의', '복수', '자존심', '성장', '강함', '자기 실현', '시간의 소중함', '노력의 결과', '사실 중심', '효율성', '객관적인 분석', '공정한 게임 환경', '유저의 경험 향상'], 'motivations': ['레벨 상승', '복수', '명성 유지', '전사로서의 성장', '군대의 장군이 되는 꿈', '아이템 보호', '게임에서의 성공', '정보 탐색', '게임의 공정성과 질 향상', '팀의 성공', '게임의 밸런스를 유지하고 유저들이 공정하게 플레이할 수 있도록 돕고 싶어함'], 'fears': ['귀족들의 멸시', '레벨 하락', '무능력', '능력 상실', '무가치한 시간', '무의미한 노력', '자살 충돌', '실수로 인한 팀의 실패', '게임의 불공정성', '게임의 밸런스 붕괴', '유저들이 불공정한 경험을 하게 되는 것']}, 'background': {'origin': '파트리안에서 시작', 'occupation': '모험가', 'skills': ['퀘스트 해결', '전투 기술', '상인과의 거래', '대장장이 장인의 기술', '대장장이 장인의 감정', '대장장이 장인의 인내심', '대장장이 장인의 분해', '대장장이 장인의 수리', '전설적 대장장이의 기술', '전설적 대장장이의 감별', '전설적 대장장이의 감정', '전설적 대장장이의 인내심', '전설적 대장장이의 수리', '전설적 대장장이의 분해', '전설적 대장장이의 숨결', '전설적 대장장이의 축복', '전설적 대장장이의 창조', '퀘스트 수행', '정보 검색', '게임 개발', '데이터 분석', '팀 관리', '게임 시스템 설계', '문제 해결 능력', '유저 경험 분석']}, 'story_role': '주인공으로서 귀족과의 갈등을 겪으며 성장하는 캐릭터', 'relationships': [{'name': '아슈르 백작', 'relationship': '적대적', 'description': '퀘스트를 강제로 떠넘긴 인물로, 최나희에게 큰 고통을 주는 존재.'}, {'name': '임철호', 'relationship': '상사', 'description': 'S.A그룹의 총수이자 Satisfy의 개발팀장.'}]}
+2024-11-24 22:48:37,798 - novel_processor - INFO - Found character: 신영우, details: {'full_name': '신영우', 'aliases': ['그리드'], 'initial_description': '파트리안에서 귀족 살해자로서의 삶을 살아가는 캐릭터.', 'personality': {'traits': ['끈기', '분노', '결단력', '절망적', '혼란스러운', '불만족스러운', '고통받는', '고민이 많은', '무기력한', '슬픈', '허무한', '집착', '탐구심', '미련한', '운이 좋은', '평범한'], 'values': ['정의', '복수', '자존심', '성장', '강함', '자아 실현', '시간의 소중함', '노력의 결과', '자신의 목표를 향한 노력', '우연의 중요성', '모험을 피하는 경향', '안정적인 환경을 선호'], 'motivations': ['레벨 상승', '복수', '명성 유지', '전사로서의 성장', '군대의 장군이 되는 꿈', '아이템 보호', '게임 내에서의 성취', '정보 탐색', '레전드리 전직서 획득', '자신의 능력 증명', '게임에서의 성공', '특별한 경험을 얻고자 하는 욕구'], 'fears': ['귀족들의 멸시', '레벨 하락', '무능력', '능력 상실', '노가다로 전락', '무력감', '자살 충동', '실패', '목표를 이루지 못하는 것', '실패에 대한 두려움', '게임 내에서의 고립']}, 'background': {'origin': '파트리안', 'occupation': '모험가', 'skills': ['퀘스트 해결', '전투 기술', '상인과의 거래', '대장장이 장인의 기술', '대장장이 장인의 감정', '대장장이 장인의 인내심', '대장장이 장인의 분해', '대장장이 장인의 수리', '전설적 대장장이의 기술', '전설적 대장장이의 감별', '전설적 대장장이의 감정', '전설적 대장장이의 인내심', '전설적 대장장이의 수리', '전설적 대장장이의 분해', '전설적 대장장이의 숨결', '전설적 대장장이의 축복', '전설적 대장장이의 창조', '퀘스트 수행', '정보 검색', '탐험', '전투', '아이템 제작 시 추가 옵션 확률 상승', '아이템 강화 확률 상승', '모든 장비 아이템 착용 가능']}, 'story_role': '주인공으로서 귀족과의 갈등을 겪으며 성장하는 캐릭터.', 'relationships': [{'name': '아슈르 백작', 'relationship_type': '적대적', 'description': '퀘스트를 강제로 떠넘긴 귀족으로, 신영우의 복수 대상.'}]}
+2024-11-24 22:48:37,848 - novel_processor - INFO - Found character: 그리드, details: {'full_name': '그리드', 'aliases': ['신영우'], 'initial_description': '귀족 살해자로서 모든 나라의 귀족들에게 멸시와 억압을 당하며, 구직에 제한을 받는 캐릭터.', 'personality': {'traits': ['분노', '결단력', '고집', '상상력', '절망', '혼란', '불만', '고민이 많은', '무력감에 빠진', '허무함을 느끼는', '끈기', '집착', '탐구심', '극단적인 선택을 하는 경향', '위기 상황에서의 침착함'], 'values': ['자존심', '정의', '복수', '성장', '강함', '시간의 소중함', '노력의 결과', '자부심', '노력', '운', '생존', '능력 향상'], 'motivations': ['레벨 상승', '복수', '명성 유지', '전사로서의 성장', '군대의 장군이 되는 꿈', '아이템 보호', '레벨 회복', '정보 탐색', '퀘스트 완료', '자신의 능력 증명', '아이템 제작 및 강화'], 'fears': ['귀족들의 멸시', '레벨 하락', '무능력', '능력 상실', '노가다', '무의미한 노력', '자살 충돌', '전직서 상실', '실패', '레벨 다운']}, 'background': {'origin': '파트리안에서 시작', 'occupation': '모험가', 'skills': ['퀘스트 해결', '전투 기술', '상인과의 거래', '대장장이 장인의 기술', '대장장이 장인의 감정', '대장장이 장인의 인내심', '대장장이 장인의 분해', '대장장이 장인의 수리', '전설적 대장장이의 기술', '전설적 대장장이의 감별', '전설적 대장장이의 감정', '전설적 대장장이의 인내심', '전설적 대장장이의 수리', '전설적 대장장이의 분해', '전설적 대장장이의 숨결', '전설적 대장장이의 축복', '전설적 대장장이의 창조', '퀘스트 수행', '정보 검색', '탐험', '전투', '아이템 제작 시 추가 옵션 확률 상승', '아이템 강화 확률 상승', '모든 장비 아이템 착용 가능']}, 'story_role': '주인공으로서 퀘스트를 수행하며 성장하는 캐릭터', 'relationships': [{'name': '아슈르 백작', 'relationship_type': '적대적', 'description': '그리드에게 퀘스트를 강제로 떠넘긴 인물로, 그리드의 복수 대상.'}, {'name': '파트리안 주민들', 'relationship_type': '우호적', 'description': '그리드의 퀘스트 해결로 인해 호감도가 높은 주민들.'}]}
+2024-11-24 22:48:37,903 - novel_processor - INFO - Found character: 야탄, details: {'full_name': '야탄', 'aliases': [], 'initial_description': '귀족 살해자로서 모든 나라의 귀족들에게 멸시와 억압을 당하며, 파트리안에서 퀘스트를 해결해 높은 명성을 쌓아온 캐릭터.', 'personality': {'traits': ['분노', '고집', '결단력', '절망적', '혼란스러운', '불만족스러운', '허무함', '슬픔', '원망', '무력감', '자부심', '끈기', '열정', '집착', '음산함', '신비로움', '공포를 유발하는 존재'], 'values': ['정의', '복수', '자존심', '성장', '강함', '자아 실현', '시간의 소중함', '노력의 결과', '노력', '성공', '혁신', '권력', '두려움', '신비'], 'motivations': ['복수심', '명성 유지', '자신의 꿈 실현', '전사로서의 성장', '군대의 장군이 되는 것', '정보를 찾고자 하는 욕구', '게임 내에서의 성취', '20억 인구의 욕구 충족', 'Satisfy의 발전', '신봉자들의 충성', '세력 확장'], 'fears': ['귀족들의 멸시', '무능력', '자신의 꿈을 포기하는 것', '레벨이 하락하는 것', '전사로서의 능력을 잃는 것', '무력감', '자살 충동', '실패', '평범함', '신의 권위에 도전하는 존재', '신전의 힘이 약해지는 것']}, 'background': {'origin': '파트리안에서 시작', 'occupation': '모험가', 'skills': ['퀘스트 해결', '전투 기술', '상인과의 거래', '대장장이 장인의 기술', '대장장이 장인의 감정', '대장장이 장인의 인내심', '대장장이 장인의 분해', '대장장이 장인의 수리', '전설적 대장장이의 기술', '전설적 대장장이의 감별', '전설적 대장장이의 감정', '전설적 대장장이의 인내심', '전설적 대장장이의 수리', '전설적 대장장이의 분해', '전설적 대장장이의 숨결', '전설적 대장장이의 축복', '전설적 대장장이의 창조', '퀘스트 수행', '정보 탐색', '게임 개발', '경영', '문제 해결', '어둠의 마법', '신봉자 관리', '공포 유발']}, 'story_role': '주인공으로서 귀족과의 갈등을 겪으며 성장하는 캐릭터.', 'relationships': [{'name': '아슈르 백작', 'relationship_type': '적대적', 'description': '야탄에게 퀘스트를 강제로 떠넘기고, 그로 인해 갈등을 일으킨 인물.'}]}
+2024-11-24 22:48:48,022 - novel_processor - INFO - Extracted event from chapter 0: 귀족 살해자가 모든 나라의 귀족들에게 멸시와 억압을 당함.
+2024-11-24 22:48:48,079 - novel_processor - INFO - Extracted event from chapter 0: 퀘스트 실패 시 레벨 -2 및 파트리안에 입장 불가.
+2024-11-24 22:48:48,101 - novel_processor - INFO - Extracted event from chapter 0: 파트리안에서 높은 명성을 쌓은 귀족 살해자.
+2024-11-24 22:48:48,122 - novel_processor - INFO - Extracted event from chapter 0: 아슈르 백작이 귀족 살해자에게 퀘스트를 강제로 떠넘김.
+2024-11-24 22:48:48,143 - novel_processor - INFO - Extracted event from chapter 0: 귀족 살해자가 아슈르 백작과의 대화에서 위압감을 느낌.
+2024-11-24 22:48:48,181 - novel_processor - INFO - Extracted event from chapter 0: 귀족 살해자가 퀘스트 클리어 조건을 보고 절망함.
+2024-11-24 22:48:48,199 - novel_processor - INFO - Extracted event from chapter 0: 귀족 살해자가 아슈르에게 복수하겠다고 결심함.
+2024-11-24 22:48:54,050 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 아슈르에게 복수를 다짐하며 위협적인 기사들에 맞서고 있다.
+2024-11-24 22:48:54,068 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 파그마의 기서를 사용하기로 결심한다.
+2024-11-24 22:48:54,086 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 파그마의 기서를 펼치고 전직을 하면서 레벨과 능력치가 초기화된다.
+2024-11-24 22:48:54,106 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 대장장이 장인의 다양한 스킬을 마스터하게 된다.
+2024-11-24 22:49:03,921 - novel_processor - INFO - Extracted event from chapter 2: 대장장이 장인이 분해 스킬을 마스터함.
+2024-11-24 22:49:03,939 - novel_processor - INFO - Extracted event from chapter 2: 대장장이 장인이 수리 스킬을 마스터함.
+2024-11-24 22:49:03,955 - novel_processor - INFO - Extracted event from chapter 2: 대장장이 장인이 모든 스킬을 마스터하여 전설적 대장장이의 스킬이 개방됨.
+2024-11-24 22:49:03,971 - novel_processor - INFO - Extracted event from chapter 2: 전사로서의 능력을 상실하고 제작 관련 직업으로 전직함.
+2024-11-24 22:49:03,995 - novel_processor - INFO - Extracted event from chapter 2: 기사의 공격을 받아 사망함.
+2024-11-24 22:49:04,012 - novel_processor - INFO - Extracted event from chapter 2: 레벨이 -1로 하락함.
+2024-11-24 22:49:04,029 - novel_processor - INFO - Extracted event from chapter 2: 마이너스 레벨에 대한 정보를 찾기 위해 커뮤니티에 글을 작성함.
+2024-11-24 22:49:04,047 - novel_processor - INFO - Extracted event from chapter 2: 세 달 동안의 노력이 헛수고였음을 깨닫고 좌절함.
+2024-11-24 22:49:11,008 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 세 달 동안의 노력에 대한 허무함을 느끼고 감정적으로 힘들어함.
+2024-11-24 22:49:11,025 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 화장실에 가기 위해 조용히 움직임.
+2024-11-24 22:49:11,046 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 맛있는 음식을 먹으며 기분이 나아짐.
+2024-11-24 22:49:11,071 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 인터넷에 올린 질문 글의 조회 수가 급증함.
+2024-11-24 22:49:11,090 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 마이너스 레벨에 대한 정보를 찾으려 하지만 실망함.
+2024-11-24 22:49:11,106 - novel_processor - INFO - Extracted event from chapter 3: 주인공이 Satisfy의 시스템에 대한 이해를 깊게 함.
+2024-11-24 22:49:17,529 - novel_processor - INFO - Extracted event from chapter 4: 임철호가 새벽 2시 50분에 다급한 전화를 받고 회사로 향함.
+2024-11-24 22:49:17,556 - novel_processor - INFO - Extracted event from chapter 4: 임철호가 Satisfy 운영팀 사무실에 도착하여 전직 소식을 듣고 놀람.
+2024-11-24 22:49:17,598 - novel_processor - INFO - Extracted event from chapter 4: 임철호가 73레벨의 전사 플레이어가 파그마의 기서를 손에 넣는 영상을 시청함.
+2024-11-24 22:49:17,624 - novel_processor - INFO - Extracted event from chapter 4: 임철호가 북쪽 끝의 동굴 발견 시점이 예상보다 1년 10개월 앞당겨졌음을 알게 됨.
+2024-11-24 22:49:23,967 - novel_processor - INFO - Extracted event from chapter 5: 청년이 레전드리 전직을 해내며 모두의 예상을 깨뜨림.
+2024-11-24 22:49:23,986 - novel_processor - INFO - Extracted event from chapter 5: 청년이 북쪽 끝의 동굴을 발견하고 퀘스트 조건을 충족시킴.
+2024-11-24 22:49:24,004 - novel_processor - INFO - Extracted event from chapter 5: 청년이 퀘스트 도중 전직을 하여 레벨이 마이너스 1이 됨.
+2024-11-24 22:49:24,024 - novel_processor - INFO - Extracted event from chapter 5: 임철호가 마이너스 레벨의 시스템을 설명함.
+2024-11-24 22:49:29,568 - novel_processor - INFO - Extracted event from chapter 6: 임철호가 신영우의 레벨 업에 대해 설명하며 그가 특별한 능력치를 가지게 될 것이라고 언급함.
+2024-11-24 22:49:29,587 - novel_processor - INFO - Extracted event from chapter 6: 주인공이 파트리안에서 추방당한 후 야탄의 신전에서 부활함.
+2024-11-24 22:49:29,605 - novel_processor - INFO - Extracted event from chapter 6: 주인공이 자신의 상태창을 확인하며 능력치를 파악함.
+2024-11-24 22:49:36,934 - novel_processor - INFO - Extracted event from chapter 7: 주인공이 마이너스 레벨 상태에 처해 있음.
+2024-11-24 22:49:36,951 - novel_processor - INFO - Extracted event from chapter 7: 주인공이 레벨 업 가능성을 확인함.
+2024-11-24 22:49:36,969 - novel_processor - INFO - Extracted event from chapter 7: 주인공이 직업과 칭호의 특성을 통해 긍정적인 사고를 유지함.
+2024-11-24 22:49:36,985 - novel_processor - INFO - Extracted event from chapter 7: 강화 확률 상승 특성에 대한 기대감.
+2024-11-24 22:49:37,005 - novel_processor - INFO - Extracted event from chapter 7: 모든 장비를 조건 없이 착용할 수 있는 특성에 대한 의문.
+2024-11-24 22:49:37,022 - novel_processor - INFO - Extracted event from chapter 7: 주인공이 인벤토리를 열어 장비를 확인함.
+2024-11-24 23:07:50,164 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 23:08:08,410 - novel_processor - INFO - Found character: 멩겔, details: {'full_name': '멩겔', 'aliases': [], 'initial_description': '요새 도시 파트리안의 대장장이 멩겔이 심혈을 기울여 만든 작품입니다. 방어력을 살리고 무게를 낮췄습니다. 착용자는 멩겔이 작품에 담은 의지를 감지하고 힘이 솟아남을 느낍니다.', 'personality': {'traits': [], 'values': [], 'motivations': [], 'fears': []}, 'background': {'origin': '요새 도시 파트리안', 'occupation': '대장장이', 'skills': []}, 'story_role': '아이템 제작자', 'relationships': []}
+2024-11-24 23:08:08,448 - novel_processor - INFO - Found character: 마몬, details: {'full_name': '마몬', 'aliases': [], 'initial_description': '마몬은 강력한 대검을 지닌 캐릭터로, 특별한 직업 특성을 가지고 있어 아이템 사용 조건을 충족하지 못해도 장비를 착용할 수 있는 능력을 지니고 있다.', 'personality': {'traits': ['자신감', '전투 지향적', '호기심'], 'values': ['효율성', '성취감', '자기 발전'], 'motivations': ['레벨 상승', '아이템 이해도 향상', '강력한 적과의 전투'], 'fears': ['레벨 하락', '아이템 손실', '상태 이상에 걸리는 것']}, 'background': {'origin': '게임 내에서 특별한 직업을 가진 캐릭터로, 레벨이 낮음에도 불구하고 강력한 아이템을 사용할 수 있는 능력을 지님.', 'occupation': '전사 또는 전투 직업', 'skills': ['아이템 감정', '아이템 수리', '아이템 제작 이해']}, 'story_role': '주인공으로서 몬스터 사냥과 레벨 상승을 목표로 하며, 특별한 아이템을 통해 다른 유저들보다 유리한 위치에 있음.', 'relationships': []}
+2024-11-24 23:08:08,485 - novel_processor - INFO - Found character: 아슈르, details: {'full_name': '아슈르', 'aliases': [], 'initial_description': '아슈르는 특별한 능력을 가진 캐릭터로, 레벨이 낮음에도 불구하고 강력한 아이템을 착용하여 몬스터를 쉽게 사냥할 수 있는 상황에 처해 있다.', 'personality': {'traits': ['긍정적', '열정적', '결단력 있는'], 'values': ['성공', '자기 발전', '효율성'], 'motivations': ['레벨 상승', '아이템 이해도 향상', '게임 내에서의 우위 확보'], 'fears': ['실패', '레벨 복구 실패', '다른 유저들에게 뒤처지는 것']}, 'background': {'origin': '게임 내에서 특별한 직업 특성을 가진 캐릭터', 'occupation': '플레이트 아머와 대검을 사용하는 전사', 'skills': ['아이템 감정', '아이템 수리', '아이템 제작법 습득']}, 'story_role': '주인공으로서 게임 내에서의 성장과 발전을 목표로 하는 캐릭터', 'relationships': []}
+2024-11-24 23:08:16,588 - novel_processor - INFO - Extracted event from chapter 0: 멩겔의 플레이트 아머를 착용하게 됨
+2024-11-24 23:08:16,630 - novel_processor - INFO - Extracted event from chapter 0: 마몬의 대검을 장착하게 됨
+2024-11-24 23:08:16,656 - novel_processor - INFO - Extracted event from chapter 0: 아이템 사용 조건을 충족하지 못해 페널티 발생
+2024-11-24 23:08:16,680 - novel_processor - INFO - Extracted event from chapter 0: 아이템 이해도 시스템 발견
+2024-11-24 23:08:16,715 - novel_processor - INFO - Extracted event from chapter 0: 수리 스킬을 사용하기로 결정
+2024-11-24 23:08:16,732 - novel_processor - INFO - Extracted event from chapter 0: 상태 이상 확률을 낮춰주는 칭호 특성 확인
+2024-11-24 23:08:25,278 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 칭호 특성을 살펴보며 상태 이상에 걸리지 않는 것이 중요하다는 것을 깨달음.
+2024-11-24 23:08:25,302 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 칭호 덕분에 특별해졌다고 느끼며 기뻐함.
+2024-11-24 23:08:25,339 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 전직서를 현금으로 팔지 않은 것에 대한 후회.
+2024-11-24 23:08:25,365 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 아슈르에게 욕설을 퍼붓고 좌절감을 표현함.
+2024-11-24 23:08:25,382 - novel_processor - INFO - Extracted event from chapter 1: 주인공이 마음을 진정시키고 새로운 스탯들을 확인함.
+2024-11-24 23:11:55,667 - novel_processor - INFO - Started processing novel: Novel Processing
+2024-11-24 23:12:11,773 - novel_processor - INFO - Found character: 마몬, details: {'full_name': '마몬', 'aliases': [], 'initial_description': '마몬은 대검을 휘두르는 캐릭터로, 위험을 예측하고 대상을 간파하는 능력을 지닌 인물이다.', 'personality': {'traits': ['용감함', '즉흥적', '민감함'], 'values': ['정의', '자기 방어'], 'motivations': ['자신과 타인의 안전', '위험 회피'], 'fears': ['위험에 처하는 것', '실수로 타인을 해치는 것']}, 'background': {'origin': '야탄의 신전', 'occupation': '전사 또는 어쌔신', 'skills': ['대검 사용', '위험 예측', '상황 판단']}, 'story_role': '주요 캐릭터로서, 위험을 감지하고 대처하는 역할을 수행한다.', 'relationships': []}
+2024-11-24 23:12:11,795 - novel_processor - INFO - Found character: 야탄, details: {'full_name': '야탄', 'aliases': [], 'initial_description': '야탄의 신전에서 발생한 사건을 통해 등장.', 'personality': {'traits': ['경계심이 강함', '신중함', '조심스러움'], 'values': ['안전', '자기 방어'], 'motivations': ['위험 회피', '자신의 생명 보호'], 'fears': ['위험에 처하는 것', '예기치 않은 공격']}, 'background': {'origin': '야탄의 신전', 'occupation': '불명 (어쌔신과의 만남으로 추측됨)', 'skills': ['위험 예측', '상황 판단']}, 'story_role': '주인공이 야탄의 신전에서 겪는 사건의 중심 인물', 'relationships': []}
+2024-11-24 23:12:11,828 - novel_processor - INFO - Found character: 백인 사내, details: {'full_name': '백인 사내', 'aliases': [], 'initial_description': '가벼운 무장과 날렵한 몸놀림을 보이는 어쌔신 계열의 직업을 가진 남성.', 'personality': {'traits': ['능글능글함', '자신감', '무관심'], 'values': ['자유', '생존'], 'motivations': ['위험 회피', '자신의 안전'], 'fears': ['위험한 상황', '죽음']}, 'background': {'origin': '정확한 출신 배경은 언급되지 않음.', 'occupation': '어쌔신', 'skills': ['날렵한 몸놀림', '위험 예측']}, 'story_role': '주인공과의 첫 대면에서 긴장감을 조성하는 역할.', 'relationships': []}
+2024-11-24 23:12:17,096 - novel_processor - INFO - Extracted event from chapter 0: 주인공이 야탄의 신전에서 갑자기 공격을 받음.
+2024-11-24 23:12:17,120 - novel_processor - INFO - Extracted event from chapter 0: 백인 사내가 주인공에게 진정하라고 말함.
+2024-11-24 23:12:17,135 - novel_processor - INFO - Extracted event from chapter 0: 주인공이 백인 사내의 태도에 불만을 품음.

@@ -1,0 +1,17 @@
+.chat-flow {
+    padding: 1rem;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+@media (min-width: 1921px) {
+  .chat-flow {
+    max-width: 1800px;
+  }
+}
+
+@media (min-width: 1441px) and (max-width: 1920px) {
+  .chat-flow {
+    max-width: 1600px;
+  }
+}

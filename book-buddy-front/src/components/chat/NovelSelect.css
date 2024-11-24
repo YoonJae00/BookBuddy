@@ -1,0 +1,145 @@
+.novel-select {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+.novel-content {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 24px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  padding: 2rem;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 3rem;
+  font-size: 2.5rem;
+  font-weight: bold;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.error-message {
+  max-width: 600px;
+  margin: 0 auto 2rem;
+  padding: 1rem;
+  background: rgba(254, 215, 215, 0.9);
+  border-left: 4px solid #C53030;
+  border-radius: 8px;
+  text-align: center;
+  color: #C53030;
+}
+
+.novel-grid {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 1rem;
+}
+
+.novel-card {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+}
+
+.novel-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.95);
+}
+
+.novel-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #2D3748;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+.novel-author {
+  color: #4A5568;
+  font-size: 1.1rem;
+  font-style: italic;
+}
+
+@media (max-width: 640px) {
+  .novel-grid {
+    grid-template-columns: 1fr;
+    padding: 0.5rem;
+  }
+  
+  .title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+
+@media (min-width: 1921px) {
+  .novel-grid {
+    max-width: 1800px;
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@media (min-width: 1441px) and (max-width: 1920px) {
+  .novel-grid {
+    max-width: 1600px;
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1440px) {
+  .novel-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .novel-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+
+  .novel-card {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .novel-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .novel-card {
+    padding: 1.5rem;
+  }
+
+  .novel-title {
+    font-size: 1.3rem;
+  }
+}

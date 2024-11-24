@@ -1,6 +1,7 @@
 import uvicorn
 from fastapi import FastAPI
 from fastapi.openapi.utils import get_openapi
+from fastapi.middleware.cors import CORSMiddleware
 from controllers import novel_controller, character_controller, chat_controller
 from dotenv import load_dotenv
 
@@ -12,6 +13,15 @@ from langchain_teddynote import logging
 logging.langsmith("novel-character-chatbot")
 
 app = FastAPI()
+
+# CORS 미들웨어 설정
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],  # Vite 기본 포트
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 def custom_openapi():
     if app.openapi_schema:

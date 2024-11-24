@@ -11,27 +11,25 @@ router = APIRouter()
 async def chat_with_character(
     character_id: str,
     message: ChatMessage,
-    settings = Depends(get_settings)
+    settings = Depends(get_settings),
+    user_id: str = "anonymous"
 ):
     """캐릭터와 채팅"""
     try:
-        # DB에서 캐릭터 정보 조회
         db = DatabaseService()
-        character = await db.get_character(character_id)
+        character = db.get_character(character_id)
         if not character:
             raise HTTPException(status_code=404, detail="Character not found")
         
-        # 캐릭터 관련 이벤트 조회
-        events = await db.get_character_events(character['full_name'], character['novel_id'])
+        events = db.get_character_events(character['full_name'], character['novel_id'])
         
-        # 챗봇 초기화
         chatbot = CharacterChatbot(
             character_data=character,
             events=events,
-            settings=settings
+            settings=settings,
+            user_id=user_id
         )
         
-        # 응답 생성
         response = await chatbot.get_response(message.content)
         
         return {
@@ -41,3 +39,12 @@ async def chat_with_character(
         
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+@router.get("/chat/history/{character_id}")
+async def get_chat_history(
+    character_id: str,
+    user_id: str = "anonymous"
+):
+    db = DatabaseService()
+    history = db.get_chat_history(character_id=character_id, user_id=user_id)
+    return history
