@@ -10,6 +10,13 @@
 [데모 보기](http://124.49.147.145)
 
 
+## 예시
+<div style="display: flex;">
+  <img width="50%" alt="스크린샷1" src="https://github.com/user-attachments/assets/5bce3996-cda1-4416-93cc-38b62b828439">
+  <img width="49%" alt="스크린샷2" src="https://github.com/user-attachments/assets/351eaad5-0a2c-4d9f-bbf0-cce481086c16">
+</div>
+  <img width="50%" alt="스크린샷3" src="https://github.com/user-attachments/assets/9616a9c8-0285-4c20-9677-f8d01a0ac668">
+
 
 ## 아키텍처
 ```mermaid
