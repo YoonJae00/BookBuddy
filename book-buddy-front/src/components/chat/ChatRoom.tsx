@@ -48,11 +48,21 @@ function ChatRoom({ character, onBack }) {
 
     try {
       const response = await apiService.sendMessage(character.id, input, "anonymous")
-      setMessages(prev => [...prev, {
-        content: response.data.response,
-        role: 'assistant',
-        timestamp: new Date().toISOString()
-      }])
+      
+      // 줄바꿈으로 구분된 응답을 배열로 분리
+      const responses = response.data.response.split('\n').filter(r => r.trim())
+      
+      // 각 응답을 개별 메시지로 추가
+      responses.forEach((content, index) => {
+        setTimeout(() => {
+          setMessages(prev => [...prev, {
+            content: content,
+            role: 'assistant',
+            timestamp: new Date().toISOString()
+          }])
+        }, index * 1000) // 각 메시지를 1초 간격으로 표시
+      })
+      
     } catch (error) {
       console.error('Failed to send message:', error)
     }

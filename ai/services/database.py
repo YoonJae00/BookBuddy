@@ -181,5 +181,5 @@ class DatabaseService:
             
             return [msg.to_dict() for msg in history][::-1]
         except Exception as e:
-            print(f"Chat error: {str(e)}")
-            raise HTTPException(status_code=500, detail=str(e))
+            print(f"Failed to get chat history: {str(e)}")
+            return []
