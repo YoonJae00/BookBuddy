@@ -12,7 +12,7 @@ const api = axios.create({
 
 export const apiService = {
   getNovels: () => api.get('/novels'),
-  createNovel: (data) => api.post('/novels/', data),
+  createNovel: (data: any) => api.post('/novels/', data),
   sendMessage: (characterId: string, message: string, userId: string = "anonymous") => 
     api.post(`/chat/${characterId}`, { content: message, user_id: userId }),
   getCharacters: (novelId: string) => 
