@@ -6,8 +6,6 @@
 ## 블로그
 [블로그 작성 글](https://youngri.tistory.com/68)
 
-## DEMO
-[데모 보기](http://124.49.147.145)
 
 
 ## 예시
